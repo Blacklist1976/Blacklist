@@ -9,7 +9,7 @@
 "stations": [
 
 
-{"name": "La bailarina",
+{"name": "Ballerina",
 "image": "https://i.ibb.co/j49LnT4/ballerina.jpg",
 "embed": "true",
 "url": "https://filemoon.to/d/w83rxm73ykfs/Ballerina"},
@@ -1622,10 +1622,11 @@
 {"name": "FANTASMAGORIA",
 "image": "https://pics.filmaffinity.com/fantasmagoria-516179378-large.jpg",
 "url": "https://filemoon.to/d/lgorn2k1rziu/Fantasmagor_a",
-"embed": "true",
+"embed": "",
 "isHost": "true",
 "online": "true",
 "import": false}]}]}
+
 
 
 
