@@ -1,6 +1,6 @@
 {"name": "Blacklist",
 "author": "Black",
-"image": "https://i.postimg.cc/rwRvTnHY/Rinnegan.png",
+"image": "https://i.ibb.co/PXf5H4p/samara.png",
 "url": "https://raw.githubusercontent.com/Blacklist1976/Blacklist/refs/heads/main/Blacklist.w3u",
 "groups":
 
@@ -13,13 +13,13 @@
 
 
         { "name": "Series",
-        "image": "https://www.series.pt/images/series_design_logo_black.png",
+        "image": "https://logos.flamingtext.com/Word-Logos/series-design-sketch-name.png",
         "url": "https://raw.githubusercontent.com/Blacklist1976/Blacklist/refs/heads/main/Series.w3u",
         "import": false},
 
 
         { "name": "Infantil y familiar",
-        "image": "https://images3.alphacoders.com/595/595865.jpg",
+        "image": "https://i0.wp.com/mninoticias.com/wp-content/uploads/2023/06/Linear-Cine-en-familia-16x9-Cris.jpg",
         "url": "https://raw.githubusercontent.com/Bl4ckl4dy/CiNe-inFanTiL-Espa-ol/refs/heads/main/CiNe%20inFanTiL%20Espa%C3%B1ol.w3u",
         "import": false},
 
