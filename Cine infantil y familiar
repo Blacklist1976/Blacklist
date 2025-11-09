@@ -1,0 +1,2470 @@
+
+{
+"name": "CiNe inFanTiL EsPañoL",
+"author": "Black",
+"url": "",
+"image": "https://images3.alphacoders.com/595/595865.jpg",
+"stations":
+    [
+
+		{
+        "name": "10 VIDAS",
+        "image": "https://pics.filmaffinity.com/10_lives-671616032-large.jpg",
+        "url": "https://filemoon.to/d/0qj3tgz5h6fz/10_vidas__2024__Pelicula_infantil_espa_ol.mp4",
+        "info": "[2024]",
+		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"referer": "",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+        },
+        {
+        "name": "ABULELE,",
+        "image": "https://i.postimg.cc/4dvq1yLL/Abulele-2015-Pelicula-infantil.jpg",
+        "url": "https://filemoon.to/d/qifn8l3ww5ol/Ver_abulele_2015_esp_1080p_mp4.mp4",
+        "info": "2015",
+		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"referer": "",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+        },
+	{ 
+	"name": "ABOMINABLE", 
+	"info": "2019",
+	"image": "https://m.media-amazon.com/images/I/81kdaaa24fL._SL1500_.jpg", 
+	"url": "https://filemoon.to/d/b7nxsbqyx24i/Abominable_2019_Pelicula_animacion_esp_bluray_1080p_mkv.mp4",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+        },
+	{ 
+	"name": "AINBO LA GUERRERA DEL AMAZONAS", 
+	"info": "2021",
+	"image": "https://pictures.betaseries.com/films/affiches/es/76093.jpg", 
+	"url": "https://uqload.com/gdc85iaxxcad.html",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+        },
+	{ 
+	"name": "ANGRY BIRDS, LA PELICULA", 
+	"info": "[2012]",
+	"image": "https://i.postimg.cc/d3zqwT3F/Angry-Birds-2012-Pelicula-infantil.jpg", 
+	"url": "https://filemoon.to/d/41up3d9vfxka/Angry_Birds_La_pel_cula",
+      	"userAgent": "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+	},
+	{ 
+	"name": "ANGRY BIRDS 2", 
+	"info": "[2019]",
+	"image": "https://i.postimg.cc/cLgMTvVS/Angry-Birds-2-2019-Pelicula-infantil.jpg", 
+	"url": "https://filemoon.to/d/vvvuwsgskbi7/Angry_Birds_2",
+      	"userAgent": "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+	},
+        {
+        "name": "AVENTURAS DE MAURICE, LAS",
+        "image": "https://pics.filmaffinity.com/the_amazing_maurice-509934440-large.jpg",
+        "url": "https://filemoon.to/d/34niy18gz5r0/Las_aventuras_de_Maurice",
+        "info": "[2022]",
+      	"userAgent": "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+        },
+        {
+        "name": "ASTERIX Y OBELIX, EL REINO MEDIO",
+        "image": "https://i.postimg.cc/L50yZWjt/Asterix-y-Obelix-el-reino-milenario-2023-Pelicula-familiar.jpg",
+        "url": "https://filemoon.to/d/h3vwmnpe7q2e/Ast_rix_y_Ob_lix_El_reino_medio",
+        "info": "2023",
+      	"userAgent": "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+        },
+	{ 
+	"name": "BARBIE SKIPPER Y SU GRAN AVENTURA COMO CANGURO",
+	"info": "2023",
+	"image": "https://i.postimg.cc/x8yG77BY/Barbie-Skipper-y-su-gran-aventura-como-canguro-2023-Pelicula-familiar.jpg", 
+	"url": "https://filemoon.to/d/rwwyny4amp4g/Barbie_Skipper_y_su_gran_aventura_como_canguro",
+      	"userAgent": "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+	},
+	{ 
+	"name": "BATMAN vs DOS CARAS",
+	"info": "2017",
+	"image": "https://i.postimg.cc/2yC2Z2Bn/Batman-vs-Dos-Caras-2017-Pelicula-familiar.jpg", 
+	"url": "https://filemoon.to/d/bvh6fihff33b/Batman_vs._dos_caras",
+      	"userAgent": "PlusMediaPlayer/0.0.9",
+        "embed": "",
+        "isHost": "true",
+        "online": "true",
+        "import": false
+	},
+	{
+        "name": "BEE MOVIE",
+        "image": "https://pics.filmaffinity.com/bee_movie-441375499-large.jpg",
+        "url": "hhttps://filemoon.to/d/z3i7r5jly70w/Bee_Movie",
+        "info": "2024",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+        },
+	{ 
+	"name": "BENJI",
+	"info": "1987",
+	"image": "https://pics.filmaffinity.com/benji-880744676-large.jpg", 
+	"url": "https://filemoon.to/d/re8v3hntwfjd/Benji",
+      	"userAgent": "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+	},
+	{ 
+	"name": "BLANCANIEVES",
+	"info": "2025",
+	"image": "https://pics.filmaffinity.com/snow_white-841837411-large.jpg", 
+	"url": "https://filemoon.to/d/zfnwv11egrpw/Blancanieves",
+      	"userAgent": "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+	},
+{ 
+	"name": "BLANCANIEVES Y LOS 7 ENANITOS",
+	"info": "2025",
+	"image": "https://hdfullcdn.cc/tthumb/172x256/movie_4cd2ba0b7c61bd75633bcd30c3db74b7.jpg", 
+	"url": "https://filemoon.to/d/zfnwv11egrpw/Blancanieves",
+      	"userAgent": "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+	},
+	{ 
+	"name": "BOB ESPONJA",
+	"info": "2020",
+	"image": "https://pics.filmaffinity.com/Bob_Esponja_Un_h_roe_al_rescate-830044791-large.jpg", 
+	"url": "https://uqload.com/rw6nyupresw3.html",
+      	"userAgent": "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+	},
+	{ 
+	"name": "BUFFALO KIDS",
+	"image": "https://pics.filmaffinity.com/buffalo_kids-634012768-large.jpg",
+	"url": "https://filemoon.to/d/fdvne4wb6cay/Buffalo_kids__2024__Pelicula_infantil_espa_ol.mp4",
+	"info": "2024",
+      	"userAgent": "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+	},
+	{
+	"name": "CABALLEROS DEL ZODIACO, LOS",
+	"info": "2023",
+	"url": "https://filemoon.to/d/160b6pxu5873/Los_Caballeros_del_Zodiaco",
+	"image": "https://i.postimg.cc/yxQQ5Yhv/Caballero-del-Zodiaco-20223-Pelicula-infantil.jpg",
+      	"userAgent": "PlusMediaPlayer/0.0.9",
+	"embed":"",
+	"isHost":"true",
+	"online":"true",
+	"import": false
+	},
+	{
+	"name": "CANTA",
+	"info": "2016",
+	"image": "https://i.postimg.cc/CKNLPTk2/91e05q-Nz-GUL-AC-UF1000-1000-QL80.jpg", 
+	"url": "https://filemoon.to/d/vh2zgugi5mxg",
+      	"userAgent": "PlusMediaPlayer/0.0.9",
+	"embed":"",
+	"isHost":"true",
+	"online":"true",
+	"import": false
+	},
+	{
+	"name": "CANTA 2",
+	"info": "2021",
+	"image": "https://i.postimg.cc/8C2dkvjW/a-Canta-2-390779703-large.jpg", 
+	"url": "https://listeamed.net/v/P0poO1L088DEz17",
+      	"userAgent": "PlusMediaPlayer/0.0.9",
+	"embed":"",
+	"isHost":"true",
+	"online":"true",
+	"import": false
+	},
+	{
+	"name": "CASCANUECES, EL",
+	"image": "https://pics.filmaffinity.com/the_nutcracker_in_3d-822708750-large.jpg", 
+	"url": "https://filemoon.to/d/kcuyj25dn5ox/El_Cascanueces__2010__Pelicula_infantil_espa_ol.mkv",
+	"info": "2010",
+      	"userAgent": "PlusMediaPlayer/0.0.9",
+	"embed":"",
+	"isHost":"true",
+	"online":"true",
+	"import": false
+	},
+	{
+       	"name": "CHICKEN RUN, AMANECER DE LOS NUGGETS",
+        "image": "https://pics.filmaffinity.com/chicken_run_dawn_of_the_nugget-363717549-large.jpg",
+        "url": "https://upstream.to/f1ky3dngts8j",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+      	{
+        "name": "CHIP Y CHOP, LOS GUARDIANES RESCATADORES",
+        "info":"2022",
+        "image": "https://i.postimg.cc/c4653Wzf/Chip-y-Chop-los-guardianes-rescatadores-2022-pelicula-infantil.jpg",
+        "url":"https://upstream.to/fnbj3d83na3d",
+        "userAgent":"PlusMediaPlayer/0.0.9",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+        },
+		{
+       	"name": "CITA DE CARL, LA",
+        "image": "https://pics.filmaffinity.com/carl_s_date-774225557-large.jpg",
+        "url": "https://upstream.to/1i06ug36loob",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+       	{
+        "name": "COCO",
+        "info":"2018",
+        "image": "https://i.postimg.cc/MHC7T24X/Coco-2017-Pelicula-infantil.jpg",
+        "url":"https://upstream.to/95h5vdr6hseo",
+        "userAgent":"PlusMediaPlayer/0.0.9",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+        },
+		{
+        "name": "COMO ENTRENAR A TU DRAGON",
+        "image": "https://pics.filmaffinity.com/how_to_train_your_dragon-978767756-large.jpg",
+        "url": "https://filemoon.to/d/hwnj09v4x2md/C_mo_entrenar_a_tu_drag_n__2025__Pelicula_Castellano.mp4",
+        "info": "[2025]",
+		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"referer": "",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+        },
+	{
+       	"name": "CONEJO DE TERCIOPELO, EL",
+        "image": "https://pics.filmaffinity.com/the_velveteen_rabbit-168581418-large.jpg",
+        "url": "https://upstream.to/zpkwko0k3125",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "COPPELIA",
+        "image": "https://pics.filmaffinity.com/coppelia-612414923-large.jpg",
+        "url": "https://upstream.to/59mkjvj5euot",
+       	"info": "2022",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+{
+"name": "CRETINOS, LOS",
+"image": "https://pics.filmaffinity.com/the_twits-161255490-large.jpg",
+"url": "https://filemoon.to/d/5ezb5khnjoue/Los_cretinos",
+"info": "[2025][Animación Comedia Familia Fantasía]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+   	
+
+	{
+        "name": "DEL REVÉS (iNSIDE OUT)",
+        "image": "https://i.postimg.cc/QMYZVC7X/Del-Reves-2015-Pelicula-infantil.jpg",
+       	"url": "https://upstream.to/kodq926pb4pi",
+       	"info":"2015",
+       	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"isHost":"true",
+       	"online":"true",
+       	"import": false
+       	},
+	{
+        "name": "DEL REVÉS 2 (iNSIDE OUT 2)",
+        "image": "https://pics.filmaffinity.com/inside_out_2-365634749-large.jpg",
+       	"url": "https://filemoon.to/d/a8pfa7oxizeb/Del_rev_s_2__2024_.mp4",
+       	"info":"2024",
+       	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"isHost":"true",
+       	"online":"true",
+       	"import": false
+       	},
+	{
+        "name": "DIARIO DE GREG, EL",
+        "info":"2021",
+        "image": "https://i.postimg.cc/1z76mzQt/El-diario-de-Greg-2021-Pelicula-infantil.jpg",
+        "url":"https://upstream.to/uc1rdnziuwn0",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+        "isHost":"true",
+        "online":"true" 
+		},
+	{
+       	"name": "DIARIO DE GREG EN NAVIDAD, EL. ATRAPADOS EN LA NIEVE",
+        "image": "https://pics.filmaffinity.com/diary_of_a_wimpy_kid_christmas_cabin_fever-973008418-large.jpg",
+        "url": "https://upstream.to/yabtk4f76k9x",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+       	{
+       	"name": "DIECIOCHO OTRA VEZ",
+       	"image": "https://i.postimg.cc/7L1K8PKB/Dieciocho-otra-vez-2023-Pelicula-infantil.jpg",
+       	"url": "https://upstream.to/470mfe5gmy0a",
+       	"info":"2023",
+       	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"isHost":"true",
+       	"online":"true",
+       	"import": false
+       	},
+       	{
+       	"name": "DOCTOR DOLITTLE, LAS AVENTURAS",
+       	"image": "https://i.postimg.cc/fL3nds7Y/Doctor-Dolittle-2020-Pelicula-infantil.jpg",
+       	"url": "https://upstream.to/r40ygyxr0vis",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"info":"2020",
+       	"embed":"",
+       	"isHost":"true",
+       	"online":"true",
+       	"import": false
+       	},
+       	{
+       	"name": "DOCTOR STRANGE EN EL MULTIVERSO DE LA LOCURA",
+       	"image": "https://i.postimg.cc/Jz75tqBd/Doctor-Strange-en-el-multiverso-de-la-locura-2022-Pelicula-infantil.jpg",
+       	"url": "https://upstream.to/4lqwqzc6hsfu",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"info":"2022",
+       	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"isHost":"true",
+       	"online":"true",
+       	"import": false
+       	},
+	{
+       	"name": "DOUNIA Y LA PRINCESA DE ALEP",
+        "image": "https://pics.filmaffinity.com/dounia_et_la_princesse_d_alep-251201494-large.jpg",
+        "url": "https://gamovideo.net/fsl9i770ft3k",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "DOUNIA Y EL ECO DEL TAMBOR",
+        "image": "https://pics.filmaffinity.com/dounia_le_grand_pays_blanc-426493772-large.jpg",
+        "url": "https://listeamed.net/v/njJYOdd6K0aOe9o",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+
+	{
+	"name": "ELEFANTA DEL MAGO, LA",
+	"info": "2023",
+	"image": "https://i.postimg.cc/VkxPtGvX/Elefanta-del-mago-La-2023-Pelicula-familiar.jpg", 
+	"url": "https://upstream.to/mikaslie110l",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+	},
+	{
+	"name": "ELEMENTAL",
+	"info": "2023",
+	"image": "https://i.postimg.cc/44623sKk/Elemental-2023-Pelicula-infantil.jpg", 
+	"url": "https://filemoon.to/d/gxsoqe8y4gsb/Elemental_2023_Pelicula_Infantil_1080.mp4",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+	},
+		{
+        "name": "ELIO",
+        "image": "https://pics.filmaffinity.com/elio-639250511-large.jpg",
+        "url": "https://filemoon.to/d/qrfkt7seauh3/Elio",
+        "info": "[2025]",
+		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"referer": "",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+        },
+	{
+	"name": "ENCANTO",
+	"info": "2021",
+	"image": "https://i.postimg.cc/1zLpYn7w/Encanto-2021-Pelicual-infantil.jpg", 
+	"url": "https://uqload.com/kocym15g7ssi.html",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+	},
+	{
+	"name": "ESCUELA DE ANIMALES MAGICOS, LA",
+	"info": "2021",
+	"image": "https://pics.filmaffinity.com/die_schule_der_magischen_tiere-747697492-large.jpg", 
+	"url": "https://filemoon.to/d/uu4jsoxrlqtd/Ver_La_escuela_de_animales_m_gicos_Online_Castellano_2021_Castellano_-_HDFull.mp4",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+	},
+	{
+	"name": "ESPADA DE LOS 47 RONIN, LA",
+	"info": "2022",
+	"image": "https://i.postimg.cc/wj0YHCMK/Espada-de-los-47-Ronin-La-2022-Pelicula-familiar.jpg", 
+	"url": "https://upstream.to/tw3bjzp2azu4",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+	},
+	{
+	"name": "ESPIAS CON DISFRAZ",
+	"info": "2019",
+	"image": "https://i.postimg.cc/15nL2hY1/Espias-con-disfraz-2019-Pelicula-infantil.jpg", 
+	"url": "https://upstream.to/7f9els0ony5w",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+	},
+
+
+	{
+       	"name": "FAMILIA DE SUPERHEROES, UNA",
+        "image": "https://pics.filmaffinity.com/helt_super-943294400-large.jpg",
+        "url": "https://gamovideo.net/3kffk5rjr1gi",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "FAMILIA DE SUPERHEROES, UNA",
+        "image": "https://pics.filmaffinity.com/helt_super-943294400-large.jpg",
+        "url": "https://upstream.to/r9ma9r3576bw",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+    {
+      "name": "FAMILIA MONSTRUOSA, UNA",
+      "image": "https://pics.filmaffinity.com/my_freaky_family-209278332-large.jpg",
+      "url": "https://filemoon.to/d/pp70i0523yy4/Una_familia_monstruosa",
+      "info": "[2024][Animacion Fantasia]",
+      "embed": "",
+      "referer": "",
+      "isHost": "true",
+      "online": "true",
+      "userAgent": "PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+      "import": false
+    },
+	{
+        "name": "FLASH, THE",
+	"info": "2023",
+	"image": "https://i.postimg.cc/4dbSmz7y/the-flash.jpg", 
+	"url": "https://upstream.to/32nmremehty3",
+       	"embed":"",
+       	"isHost":"true",
+       	"online":"true",
+       	"import": false
+	},
+	{
+        "name": "FLOW, UN MUNDO PARA SALVAR",
+	"info": "2024",
+	"image": "https://pics.filmaffinity.com/flow-382508168-large.jpg", 
+	"url": "https://filemoon.to/d/lfslpp0ujwsw/Ver_flow_2024_Pelicula_esp_1080p_mp4.mp4",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"embed":"",
+       	"isHost":"true",
+       	"online":"true",
+       	"import": false
+	},
+	{
+	"name": "FERDINAND",
+	"info": "2017",
+        "image": "https://i.postimg.cc/tC7y6Lyq/Ferdinand-2017-Pelicula-infantil.png", 
+        "url": "https://filemoon.to/d/yq1nhq3e3jg3",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"embed":"",
+       	"isHost":"true",
+       	"online":"true",
+       	"import": false
+	},
+	{
+	"name": "FROZEN",
+	"info": "2013",
+        "image": "https://i.postimg.cc/vTXTWvQv/Frozen-2013-Pelicula-infantil.jpg", 
+        "url": "https://filemoon.to/d/jgj3z9uz8vfy/Ver_Frozen_reino_del_hielo_2013_Pelicula_infantil_Castellano_mkv.mp4",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"embed":"",
+       	"isHost":"true",
+       	"online":"true",
+       	"import": false
+	},
+	{
+	"name": "FROZEN 2",
+	"info": "2019",
+        "image": "https://i.postimg.cc/7YsbhXtH/Frozen-2-2019-Pelicula-infantil.jpg", 
+        "url": "https://filemoon.to/d/sn5orvgf00i7/Ver_Frozen_2_2019_Pelicula_infantil_Castellano_avi.mp4",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"embed":"",
+       	"isHost":"true",
+       	"online":"true",
+       	"import": false
+	},
+	{
+	"name": "FUTBOLIN (METEGOL)",
+        "image": "https://pics.filmaffinity.com/metegol-867708817-large.jpg", 
+        "url": "https://filemoon.to/d/u4yjszs8n1no/Futbolin__Metegol__2013_Pelicula_infantil.mp4",
+	"info": "2013", 
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"embed":"",
+       	"isHost":"true",
+       	"online":"true",
+       	"import": false
+	},
+
+	{ 
+	"name": "GALLINA TURULECA, LA",
+	"info": "",
+	"image": "https://pics.filmaffinity.com/La_gallina_Turuleca-543555397-large.jpg", 
+	"url": "https://uqload.com/2o2hbn3lm06n.html",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"embed":"",
+	"isHost":"true",
+	"online":"true"     
+	},
+	{ 
+	"name": "GATO CON BOTAS, EL ULTIMO DESEO",
+	"info": "2022",
+	"image": "https://i.postimg.cc/XJ6cVhYn/Gato-con-botas-el-ultimo-deseo-2022-Pelicula-familiar.jpg", 
+	"url": "https://upstream.to/x24u678ibkdo",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"embed":"",
+	"isHost":"true",
+	"online":"true"     
+	},
+	{ 
+	"name": "GATO TABBY Y OTRAS HISTORIAS FELINAS",
+	"image": "https://pics.filmaffinity.com/tabby_mctat-249465626-large.jpg", 
+	"url": "https://listeamed.net/v/MAlwEMW3L1k5J39",
+	"info": "2024",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"embed":"",
+	"isHost":"true",
+	"online":"true"     
+	},
+	{
+       	"name": "GATOS NO BAILAN, LOS",
+        "image": "https://pics.filmaffinity.com/cats_don_t_dance-424188979-large.jpg",
+        "url": "https://upstream.to/bbw9rbskdo2x",
+       	"info": "1997",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{ 
+	"name": "GRAN AVENTURA SUIZA, LA",
+	"info": "2022",
+	"image": "https://i.postimg.cc/59znDRSv/Gran-aventura-suiza-La-2022-Pelicula-familiar.jpg", 
+	"url": "https://upstream.to/r9yo2czwkfa0", 
+	"embed":"",
+	"isHost":"true",
+	"online":"true"     
+	},
+	      {
+	      "name": "Gru 1, MI VILLANO FAVORITO",
+        "image": "https://pics.filmaffinity.com/despicable_me-886797392-large.jpg",
+        "url": "https://filemoon.to/d/wzaeykz0izpx/Gru_villano_favorito__2010_Pelicula_.mp4",
+       	"info": "[Español 2010]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+        "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	      {
+	      "name": "Gru 2, MI VILLANO FAVORITO",
+        "image": "https://pics.filmaffinity.com/despicable_me_2-759105201-large.jpg",
+        "url": "https://filemoon.to/d/ccljsei71qtp/Gru_villano_favorito__2013_Pelicula_.mp4",
+       	"info": "[Español 2013]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+        "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	      {
+	      "name": "Gru 3, MI VILLANO FAVORITO",
+        "image": "https://pics.filmaffinity.com/despicable_me_3-647183530-large.jpg",
+        "url": "https://filemoon.to/d/83h57az72xk2/Gru_villano_favorito__2017_Pelicula_.mp4",
+       	"info": "[Español 2017]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+        "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	      {
+	      "name": "Gru 4, MI VILLANO FAVORITO",
+        "image": "https://pics.filmaffinity.com/despicable_me_4-802312771-large.jpg",
+        "url": "https://filemoon.to/d/81aytid5b1l3",
+       	"info": "[Español 2024]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+        "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+        "name": "GUARDIANA DE DRAGONES, LA",
+        "info":"2024",
+        "image": "https://pics.filmaffinity.com/dragonkeeper_guardiana_de_dragones-704965977-large.jpg",
+        "url":"https://filemoon.to/d/jo9r1hnwac4s",
+	"embed":"",
+        "isHost":"true",
+        "online":"true" 
+	},	
+	{
+        "name": "GUARDIANES DE LA GALAXIA 1, LOS",
+        "info":"2014",
+        "image": "https://i.postimg.cc/fyRZmyTK/Guardianes-de-la-galaxia-2014-Pelicula-infantil.jpg",
+        "url":"https://upstream.to/qbamxfc2uyfk",
+	"embed":"",
+        "isHost":"true",
+        "online":"true" 
+	},	
+	{
+        "name": "GUARDIANES DE LA GALAXIA 2, LOS",
+        "info":"2017",
+        "image": "https://i.postimg.cc/pXDbrKZH/Guardianes-de-la-galaxia-2-2017-Pelicula-infantil.jpg",
+        "url":"https://upstream.to/d42aaypqpg2j",
+	"embed":"",
+        "isHost":"true",
+        "online":"true" 
+	},
+	{
+        "name": "GUARDIANES DE LA GALAXIA, LOS [Especial Navidad]",
+        "info":"2022",
+        "image": "https://i.postimg.cc/qMrDmS8P/Guardianes-de-la-Galaxia-Especial-Navidad-2022-Pelicula-infantil.jpg",
+        "url":"https://upstream.to/ozdstpjvramh",
+	"embed":"",
+        "isHost":"true",
+        "online":"true" 
+	},		
+	{
+        "name": "GUARDIANES DE LA GALAXIA 3, LOS",
+        "info":"2023",
+        "image": "https://i.postimg.cc/4xL8x3rG/Guardianes-de-la-Galaxia-3-2023-Pelicula-infantil.jpg",
+        "url":"https://upstream.to/lno8lfeuae44",
+	"embed":"",
+        "isHost":"true",
+        "online":"true" 
+	},
+	{
+        "name": "GRAN AVENTURA DE BLUE EN LA CIUDAD, LA",
+        "info": "2022",
+        "image": "https://i.postimg.cc/wjj6Gyg7/Gran-aventura-de-Blue-en-la-ciudad-La-2022-Pelicula-infantil.jpg",
+        "url": "https://upstream.to/exdhc8svtzbi",
+	"embed":"",
+        "isHost":"true",
+        "online":"true" 
+	},
+
+	{
+        "name": "HEROES DE CENTRAL PARK",
+        "image": "https://pics.filmaffinity.com/les_inseparables-441062706-large.jpg",
+        "url":"https://listeamed.net/v/PlBVEZ1oyKaxDv9",
+        "info":"2023",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"embed":"",
+        "isHost":"true",
+        "online":"true" 
+	},
+	{
+        "name": "HILDA Y EL REY DE LA MONTAÑA",
+        "image": "https://pics.filmaffinity.com/hilda_and_the_mountain_king-193746390-large.jpg",
+        "url":"https://filemoon.to/d/u0qgdpw95o1a/Hilda_y_el_rey_de_la_monta_a__2021__Pelicula_infantil_espa_ol.mkv",
+        "info":"2021",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"embed":"",
+        "isHost":"true",
+        "online":"true" 
+	},
+	{
+        "name": "HOP, REBELDE SIN CAUSA",
+        "image": "https://pics.filmaffinity.com/hop_hop-901351971-large.jpg",
+        "url":"https://filemoon.to/d/obv0a879pe5i/Hop__rebelde_sin_Pascua__2011__Pelicula_infantil_castellao.mkv",
+        "info":"2011",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"embed":"",
+        "isHost":"true",
+        "online":"true" 
+	},
+
+	{ 
+	"name": "ICARO Y EL MINOTAURO", 
+	"info": "2022",
+	"image": "https://i.postimg.cc/xT0JSwrv/I-caro-y-el-minotauro-2022-Pelicula-familiar.jpg", 
+	"url": "https://upstream.to/ef3n4942n0j0", 
+	"embed":"",
+	"isHost":"true",
+	"online":"true",
+	"import": false
+	},
+	{ 
+	"name": "ICE AGE 1, La era del hielo", 
+	"info": "2002",
+	"image": "https://pics.filmaffinity.com/ice_age-893441955-large.jpg", 
+	"url": "https://upstream.to/bfatk58hfr2a", 
+	"embed":"",
+	"isHost":"true",
+	"online":"true",
+	"import": false
+	},
+	{ 
+	"name": "ICE AGE 2, El deshielo", 
+	"info": "2006",
+	"image": "https://pics.filmaffinity.com/ice_age_2_the_meltdown-398503562-large.jpg", 
+	"url": "https://upstream.to/whet4dp2a3kd", 
+	"embed":"",
+	"isHost":"true",
+	"online":"true",
+	"import": false
+	},
+	{ 
+	"name": "ICE AGE 3, El origen de los dinosaurios", 
+	"info": "2009",
+	"image": "https://pics.filmaffinity.com/ice_age_dawn_of_the_dinosaurs_ice_age_3-898043670-large.jpg", 
+	"url": "https://upstream.to/ni12asvgc1oc", 
+	"embed":"",
+	"isHost":"true",
+	"online":"true",
+	"import": false
+	},
+	{ 
+	"name": "ICE AGE 4, La formación de los continentes", 
+	"info": "2012",
+	"image": "https://pics.filmaffinity.com/ice_age_continental_drift_ice_age_4-510028565-large.jpg", 
+	"url": "https://upstream.to/uqxhanp7a6h5", 
+	"embed":"",
+	"isHost":"true",
+	"online":"true",
+	"import": false
+	},
+	{ 
+	"name": "ICE AGE 5, El gran cataclismo", 
+	"info": "2016",
+	"image": "https://pics.filmaffinity.com/ice_age_collision_course_ice_age_5-789172711-large.jpg", 
+	"url": "https://upstream.to/khvz8bu2sy7w", 
+	"embed":"",
+	"isHost":"true",
+	"online":"true",
+	"import": false
+	},
+	{ 
+	"name": "ICE AGE 6, Las aventuras de Buck", 
+	"info": "2022",
+	"image": "https://pics.filmaffinity.com/ice_age_the_last_adventure_of_scrat_the_end-527328293-large.jpg", 
+	"url": "https://upstream.to/qi1rmzkiplze", 
+	"embed":"",
+	"isHost":"true",
+	"online":"true",
+	"import": false
+	},
+	{
+       	"name": "INCIDENTE ALIENIGENA DEL PEQUEÑO ALAN, EL",
+       	"image": "https://pics.filmaffinity.com/lille_allan_den_menneskelige_antenne-791714557-large.jpg",
+       	"url": "https://upstream.to/7n6i57hiibt1",
+	"info": "2022",
+     	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+        "name": "INCREIBLES, LOS",
+        "info":"2004",
+        "image": "https://i.postimg.cc/VL9PRG45/Increibles-Los-2004-Pelicula-infantil.jpg",
+        "url":"https://upstream.to/xooe6xvqlopc",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+	{ 
+	"name": "INCREÍBLES 2, LOS",
+        "info":"2022",
+	"image": "https://i.postimg.cc/QCx1yn1s/Increibles-2-Los-2022-Pelicula-infantil.jpg", 
+	"url": "https://upstream.to/s3qsar4a4bfx", 
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+	},
+	{ 
+	"name": "INSPECTOR SUN Y LA MALDICION DE LA VIUDA NEGRA",
+        "info":"2022",
+	"image": "https://i.postimg.cc/sD2cBC25/Inspector-Sun-y-la-maldicion-de-la-viuda-negra-2022-Pelicula-infantil.jpg", 
+	"url": "https://vk.com/video791649042_456239383", 
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+	},
+
+
+	{ 
+	"name": "JUGUETES GUARDIANES", 
+	"info": "2017",
+	"image": "https://i.postimg.cc/Hsqr7J1f/Juguetes-guardianes-2017-Pelicula-familiar.jpg", 
+	"url": "https://upstream.to/czqqirct9tuu",
+	"embed":"",
+	"isHost":"true",
+	"online":"true",
+	"import": false
+	},
+	{ 
+	"name": "JUMANJI, EL SIGUIENTE NIVEL", 
+	"info": "2019",
+	"image": "https://i.postimg.cc/85c07VQM/Jumanji-2019-Pelicula-infantil.jpg", 
+	"url": "https://upstream.to/yn8n6ix2pyaa",
+	"embed":"",
+	"isHost":"true",
+	"online":"true",
+	"import": false
+	},
+
+	{
+        "name": "KIRIKU Y LA BRUJA",
+        "info":"1998",
+        "image": "https://pics.filmaffinity.com/kirikou_et_la_sorciere_kirikou_and_the_sorceress-289653207-large.jpg",
+        "url":"https://upstream.to/61jsnpqj8840",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+	},
+	{
+        "name": "KLAUS",
+        "image": "https://pics.filmaffinity.com/klaus-456555401-large.jpg",
+        "url":"https://upstream.to/61jsnpqj8840",
+        "info":"2019",
+        "userAgent": "PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+	},
+       {
+        "name": "KUNG FU PANDA 4",
+        "info": "[2024][Español]",
+        "image": "https://www.universalpictures.com.mx/tl_files/content/movies/kung_fu_panda_4/posters/01.jpg",
+        "url": "https://filemoon.to/d/gupjp58i018m",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+
+
+	{
+        "name": "LEGO, LA PELICULA",
+        "info":"2014",
+        "image": "https://i.postimg.cc/QtBZV33d/Lego-La-pelicula-2014-Pelicula-infantil.jpg",
+        "url":"https://upstream.to/smvme6aq2kwy",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+	},
+	{
+        "name": "LEGO 2, LA PELICULA",
+        "info":"2019",
+        "image": "https://i.postimg.cc/VL2rNfPd/Lego-2-La-pelicula-2019-Pelicula-inftantil.jpg",
+        "url":"https://upstream.to/jmv2o8xdzra8",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+	},
+	{
+        "name": "LEGO 3, LA PELICULA",
+        "info":"2023",
+        "image": "https://i.postimg.cc/52N41D66/Lego-3-La-pelicula-2023-Pelicula-infantil.jpg",
+        "url":"https://upstream.to/f4qrjuza405q",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+		},
+		{
+       	"name": "LEO",
+        "image": "https://pics.filmaffinity.com/leo-530546739-large.jpg",
+        "url": "https://vidmoly.to/embed-348aco2saoqv.html",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+        {
+        "name": "LEGO DISNEY FROZEN: OPERACION FRAILECILLOS",
+        "image": "https://pics.filmaffinity.com/lego_disney_frozen_operation_puffins-588828853-large.jpg",
+        "url": "https://filemoon.to/d/h0rw4v302bgu/LEGO_Disney_Frozen_Operaci_n_Frailecillos",
+        "info": "[2025]",
+        "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+        "referer": "",
+        "embed": "",
+        "isHost": "true",
+        "online": "true",
+        "import": false
+       	},
+		{
+       	"name": "LEGO MARVEL AVENGERS, CODE RED",
+        "image": "https://pics.filmaffinity.com/lego_marvel_avengers_code_red-713992148-large.jpg",
+        "url": "https://upstream.to/r449xoq9s4eh",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+		{
+        "name": "LEGO, PRINCESAS DISNEY. VILLANOS UNIDOS",
+        "image": "https://pics.filmaffinity.com/lego_disney_princess_villains_unite-892104297-large.jpg",
+        "url": "https://filemoon.to/d/7z1ajpglv7r5/LEGO_Princesas_Disney_Villanos_unidos",
+        "info": "[2025]",
+		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"referer": "",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+        },
+	{
+        "name": "LIGHTYEAR",
+        "info":"2022",
+        "image": "https://i.postimg.cc/kX2RLNzZ/Lightyear-2022-Pelicula-infantil.jpg",
+        "url":"https://upstream.to/srieybslskct",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+	},
+	{
+        "name": "LILO, MI AMIGO EL COCODRILO",
+        "info":"2022",
+        "image": "https://i.postimg.cc/kMQSy6rm/Lilo-mi-amigo-el-cocodrilo-2022-Pelicula-infantil.jpg",
+        "url":"https://filemoon.to/d/duqmy3a2k7ol/Lilo_mi_amigo_cocodrilo__2022_Pelicula_infantil_.mp4",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+	},
+	{
+        "name": "LINCESSA, LOS SILENCIOS DEL BOSQUE",
+        "info":"2022",
+        "image": "https://i.postimg.cc/yNL4fmNg/Lincessa-Los-silencios-del-bosque-333067069-large.jpg",
+        "url":"http://vidmoly.me/w/ep558an21kok",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+	},
+    {
+    "name": "LOS SNEETCHES DEL DR. SEUSS",
+    "image": "https://pics.filmaffinity.com/dr_seuss_s_the_sneetches-800683987-large.jpg",
+    "url": "https://filemoon.to/d/8j2d7r1z5wk1/Los_Sneetches_del_Dr._Seuss",
+    "info": "[2025]",
+    "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+    "referer": "",
+    "embed": "",
+    "isHost": "true",
+    "online": "true",
+    "import": false
+       	},
+	{ 
+	"name": "LUCA",
+        "info":"2021",
+	"image": "https://pics.filmaffinity.com/luca-907827591-large.jpg", 
+	"url": "https://filemoon.to/d/mt17kc4jrm0k/Luca_2021_Pelicula_Infantil.mp4",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+	},
+	{ 
+	"name": "LUCK",
+        "info":"2022",
+	"image": "https://pics.filmaffinity.com/lucky_hank-204921043-large.jpg", 
+	"url": "https://uqload.com/hzmr6nvihvbu.html", 
+        "embed":"true",
+        "isHost":"true",
+        "online":"true"
+	},
+       {
+        "name": "MALEFICA",
+        "info":"2014",
+        "image": "https://i.postimg.cc/52Zb6gqH/Malefica-2014-Pelicula-infantil.jpg",
+        "url":"https://upstream.to/v7hokdcm4exd",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+       	{
+        "name": "MALEFICA, MAESTRA DEL MAL",
+        "info":"2019",
+        "image": "https://i.postimg.cc/j5M1Jd08/Malefica-maetra-del-mal-2019-Pelicula-infantil.jpg",
+        "url":"https://upstream.to/5uklbcdj8w8g",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+	{
+	"name": "MAVKA, GUARDIANA DEL BOSQUE",
+	"info": "2023",
+	"image": "https://i.postimg.cc/0Nt0ybnv/1681890042130.jpg", 
+	"url": "https://upstream.to/zjjrdvmjdue8",
+	"embed":"",
+	"isHost":"true",
+	"online":"true",
+	"import": false
+	},
+	{
+        "name": "MIA Y YO, LA LEYENDA DE CENTOPIA",
+	"info": "2023",
+	"image": "https://i.postimg.cc/2SbJD3Jn/Mia-y-yo-La-leyenda-de-Centopia-121062208-large.jpg", 
+	"url": "https://upstream.to/oqqpvn6obj6w",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+	},
+	{
+        "name": "MICKEY Y LAS DOS BRUJAS",
+	"info": "2021",
+	"image": "https://i.postimg.cc/J7F0swvK/Mickey-y-las-dos-brujas-2021-Pelicula-familiar.jpg", 
+	"url": "https://upstream.to/jos5bnvxvikf",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+	},
+       	{
+        "name": "MICKEY Y UN MONTON DE NAVIDADES",
+        "image": "https://pics.filmaffinity.com/mickey_and_the_very_many_christmases-688082662-large.jpg",
+        "url":"https://filemoon.to/d/42uaazgpzeyw/Mickey_y_un_mont_n_de_navidades__2024__Pelicula_Infantil_espa_ol.mkv",
+        "info":"2024",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+       	{
+        "name": "MIHGTY EXPRESS, CARRERA DE MEGATRENES",
+        "info":"2022",
+        "image": "https://i.postimg.cc/9f2jFsCb/Mighty-Express-Mighty-Trains-Race-2022-Pelicula-familiar.jpg",
+        "url":"https://upstream.to/7kpt4i4us6f6",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+	{
+        "name": "MINIONS, LOS",
+	"info": "2015",
+	"image": "https://pics.filmaffinity.com/minions-199956794-large.jpg", 
+	"url": "https://filemoon.to/d/2y3ctktoglwn/Minions__2015_Pelicula_.mp4",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+	},
+	{
+        "name": "MINIONS, EL ORIGEN DE GRU",
+	"info": "2022",
+	"image": "https://i.postimg.cc/vBJCPHL5/Minions-el-origen-de-Gru-2022-Pelicula-infantil.jpg", 
+	"url": "https://filemoon.to/d/slbyjean43bu/Minions_Origen__2022_Pelicula_.mp4",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+	},
+	{
+        "name": "MINIONS Y SUS AMIGOS VOL 1",
+	"info": "2022",
+	"image": "https://pics.filmaffinity.com/minions_more_1-972943007-large.jpg", 
+	"url": "https://filemoon.to/d/lmt3ae6w5uw4/Minions_y_sus_amigos_Volumen_1__2022_Pelicula_.mp4",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+	},
+	{
+        "name": "MINIONS Y SUS AMIGOS VOL 2",
+	"info": "2022",
+	"image": "https://pics.filmaffinity.com/minions_more_2-712819410-large.jpg", 
+	"url": "https://filemoon.to/d/qk2fqzkzy8ao/Minions_y_sus_amigos_Volumen_2__2022_Pelicula_.mp4",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+	},
+	{
+        "name": "MIRACULOUS WORLD PARIS",
+        "image": "https://pics.filmaffinity.com/miraculous_world_paris_tales_of_shadybug_and_claw_noir-214644211-large.jpg",
+        "url": "https://filemoon.to/d/b2omduiuwc6b/Miraculous_World_Par_s__las_aventuras_de_Shadybug_y_Claw_Noir.mkv",
+        "info": "2023",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+		"referer": "",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+        },
+		{
+        "name": "MISION PANDA EN AFRICA",
+        "image": "https://m.media-amazon.com/images/M/MV5BNGI3YWFkMWEtZTZjNS00NWI1LThiYWEtZDBlZDg4NWRjMzcxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "url": "https://filemoon.to/d/241h8ujg3yn9",
+        "info": "2024",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+		"referer": "",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+        },
+       	{
+        "name": "MOANNA 2",
+        "image": "https://pics.filmaffinity.com/moana_2-581593866-large.jpg",
+        "info":"2024",
+        "url":"https://filemoon.to/d/j3u2naq90x4v/Moana_2_2024_Pelicula_Infantil_Latino_HDTS.mp4",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+       	{
+        "name": "MOLLY MOON Y EL INCREIBLE LIBRO DEL HIPNOTISMO",
+        "info":"2015",
+        "image": "https://i.postimg.cc/JtwzHHg8/Molly-Moon-y-el-increible-libro-del-hipnotismo-2015-Pelicula-infantil.jpg",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"url":"https://www.youtube.com/watch?v=BOtQNhsfAg4&list=PLaI8tcGP-lUuKdCQKgGzA1DW3vLn4tdqJ&index=31",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+		{
+        "name": "MOON, MI AMIGO PANDA",
+        "image": "https://pics.filmaffinity.com/moon_le_panda-676271972-large.jpg",
+        "url": "https://filemoon.to/d/8jo43cy4rjqa/Moon_mi_amigo_panda",
+        "info": "[2025][Aventura]",
+		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"referer": "",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+        },
+       	{
+        "name": "MUFASA, EL REY LEON",
+        "image": "https://pics.filmaffinity.com/mufasa_the_lion_king-600247674-large.jpg",
+        "info":"2024",
+        "url":"https://filemoon.to/d/8f1jt1ok28y5/Musafa__el_rey_leon_2024_Pelicula_animada_castellano_720p_.mp4",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+	{
+        "name": "MUNDO EXTRAÑO",
+        "image": "https://pics.filmaffinity.com/strange_world-991340546-large.jpg",
+        "url": "https://filemoon.to/d/b953naey1e47/Mundo_Extra_o__2022_.mp4",
+        "info": "2022",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+		"referer": "",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+        },
+	{
+       	"name": "NAVIDAD DEL PEQUEÑO BATMAN, LA",
+        "image": "https://pics.filmaffinity.com/merry_little_batman-682538291-large.jpg",
+        "url": "https://upstream.to/jvz8r0ukn523",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+		{
+        "name": "NIKO, MAS ALLA DE LA AURORA BOREAL ",
+        "image": "https://pics.filmaffinity.com/niko_beyond_the_northern_lights-726658539-large.jpg",
+        "url": "https://filemoon.to/d/apj29xi3564o/Niko_3_M_s_all__de_la_Aurora_Boreal",
+        "info": "2024",
+		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"referer": "",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+        },
+       {
+        "name": "NIMONA",
+        "info":"2023",
+        "image": "https://i.postimg.cc/vTmt2gSM/Nimona-2023-Pelicula-infantil.jpg",
+        "url":"https://upstream.to/5hs3ehbzvq6i",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+       {
+        "name": "NIÑOS DEL MAR, LOS",
+        "info":"2019",
+        "image": "https://pics.filmaffinity.com/kaiju_no_kodomo-677583801-large.jpg",
+        "url":"https://embedv.net/v/JzkPxznwz04xbyd",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+	{
+       	"name": "NO SE ADMITEN PERROS NI ITALIANOS",
+        "image": "https://pics.filmaffinity.com/interdit_aux_chiens_et_aux_italiens-634203073-large.jpg",
+        "url": "https://gamovideo.com/6j4miovz5mz4",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+       {
+        "name": "NOS VOLVEMOS A CASA",
+        "info":"2021",
+        "image": "https://i.postimg.cc/d0mnpyrx/Nos-volvemos-a-casa-2021-Pelicula-infantil.jpg",
+        "url":"https://upstream.to/4qm824srb1p6",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+       {
+        "name": "NOVIA CADAVER, LA",
+        "info":"2005",
+        "image": "https://pics.filmaffinity.com/corpse_bride-106734407-large.jpg",
+        "url":"https://filemoon.to/d/undbu4t3thwl",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+
+
+	{
+       	"name": "OINK OINK",
+        "image": "https://pics.filmaffinity.com/knor-708716381-large.jpg",
+        "url": "https://upstream.to/eqsczz2yqdcw",
+       	"info": "2022",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+       {
+        "name": "OLCHIS LOS, BIENVENIDOS A PESTILANDIA",
+        "info": "2021",
+        "image": "https://pics.filmaffinity.com/the_ogglies-801780749-large.jpg",
+        "url": "https://www.rtve.es/play/videos/cine-internacional/olchis-bienvenidos-pestilandia/6485960/",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+        {
+        "name": "ONE PIECE, LA PELICULA",
+        "info": "2000",
+        "image": "https://i.postimg.cc/d17ntB1H/One-piece-la-pelicula-2000-Pelicula-infantil.jpg",
+        "url": "https://upstream.to/7jptq9z5iwpo",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+        {
+        "name": "ONE PIECE, LA AVENTURA EN LA ISLA ENGRANAJE",
+        "info": "2001",
+        "image": "https://i.postimg.cc/L5DrjDtt/One-piece-aventura-en-la-isla-engranaje-2001-Pelicula-infantil.jpg",
+        "url": "https://upstream.to/ak46dc9t6fm6",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+        {
+        "name": "ONE PIECE, EL REINO DE CHOPPER EN LA ISLA DE LOS ANIMALES RAROS",
+        "info": "2002",
+        "image": "https://i.postimg.cc/ZRMN0tgp/One-Piece-El-reino-de-Chopper-en-la-isla-de-los-animales-raros-2002-Pelicula-infantil.jpg",
+        "url": "https://upstream.to/bdqq87q5cum6",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+        {
+        "name": "ONE PIECE, LA AVENTURA SIN SALIDA",
+        "info": "2003",
+        "image": "https://i.postimg.cc/ZqDPvdvW/One-Piece-La-aventura-sin-salida-2003-Pelicula-infantil.jpg",
+        "url": "https://upstream.to/s0w7x6b4cd93",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+        {
+        "name": "ONE PIECE, LA MALDICION DE LA ESPADA SAGRADA",
+        "info": "2004",
+        "image": "https://i.postimg.cc/m2wm2hjH/One-Piece-La-maldici-n-de-la-espada-sagrada-2004-Pelicula-infantil.jpg",
+        "url": "https://upstream.to/77irjuoxfdq2",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+        {
+        "name": "ONE PIECE, EL BARON OMATSURI Y LA LISTA DE LOS SECRETOS",
+        "info": "2005",
+        "image": "https://i.postimg.cc/nrsnV6bs/One-Piece-El-Bar-n-Omatsuri-y-la-Isla-de-los-Secretos-2005-Pelicula-infantil.jpg",
+        "url": "https://upstream.to/cbekpf5tujdk06",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+        {
+        "name": "ONE PIECE, EL GRAN SOLDADO MECANICO DEL CASTILLO KARAKURI",
+        "info": "2006",
+        "image": "https://i.postimg.cc/zvmqBxJ0/One-Piece-El-gran-soldado-mec-nico-del-Castillo-Karakuri-2006-Pelicula-infantil.jpg",
+        "url": "https://upstream.to/0e0oepgeo5c207",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+        {
+        "name": "ONE PIECE, LA SAGA DE ARABASTA LOS PIRATAS Y LA PRINCESA DEL DESIERTO",
+        "info": "2007",
+        "image": "https://i.postimg.cc/Wz7xv8tD/One-Piece-La-saga-de-Arabasta-Los-piratas-y-la-princesa-del-desierto-2007-Pelicula-infantil.jpg",
+        "url": "https://upstream.to/cmpqxusfjqvq",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+        {
+        "name": "ONE PIECE, EL MILAGRO DEL CEREZO EN INVIERNO",
+        "info": "2008",
+        "image": "https://pics.filmaffinity.com/one_piece_episodo_obu_choppa_fuyu_ni_saku_kiseki_no_sakura-700109294-large.jpg",
+        "url": "https://upstream.to/7xnu3b0lydyy",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+        {
+        "name": "ONE PIECE, STRONG WORLD",
+        "info": "2009",
+        "image": "https://pics.filmaffinity.com/one_piece_film_strong_world_one_piece_movie_10-291419495-large.jpg",
+        "url": "https://upstream.to/ve1otmrinoqo",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+        {
+        "name": "ONE PIECE, LA PERSECUCION DEL SOMBRERO DE PAJA",
+        "info": "2011",
+        "image": "https://pics.filmaffinity.com/wan_pisu_suri_di_mugiwara_cheisu_aka_one_piece_3d_mugiwara_chase_aka_straw_hat_chase-640579226-large.jpg",
+        "url": "https://upstream.to/r0iocvmrry6i",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+        {
+        "name": "ONE PIECE, PELICULA Z",
+        "info": "2012",
+        "image": "https://pics.filmaffinity.com/wan_pisu_firumu_zetto_one_piece_film_z-532087171-large.jpg",
+        "url": "https://upstream.to/rqj12xtzwh4e",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+        {
+        "name": "ONE PIECE, HEART OF GOLD",
+        "info": "2016",
+        "image": "https://pics.filmaffinity.com/hato_obu_gorudo-925529392-large.jpg",
+        "url": "https://upstream.to/loevkhdrhlh2",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+        {
+        "name": "ONE PIECE, ESTAMPIDA",
+        "info": "2019",
+        "image": "https://pics.filmaffinity.com/one_piece_stampede-255097694-large.jpg",
+        "url": "https://upstream.to/avcjhmo5ny5z",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+        {
+        "name": "ONE PIECE, FILM RED",
+        "info": "2022",
+        "image": "https://pics.filmaffinity.com/one_piece_film_red-407711303-large.jpg",
+        "url": "https://upstream.to/my0e6sun64ew",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+        {
+        "name": "ONWARD, PARTE 1",
+        "info": "2020",
+        "image": "https://i.postimg.cc/pTB4B8RX/Onward-2020-Pelicula-infantil.jpg",
+        "url": "https://upstream.to/kcjpcr4m1uka",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+        {
+        "name": "ONWARD, PARTE 2",
+        "info": "2020",
+        "image": "https://i.postimg.cc/pTB4B8RX/Onward-2020-Pelicula-infantil.jpg",
+        "url": "https://upstream.to/uuuzw9i49q2q",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+        },
+
+
+	{
+       	"name": "PALONI SHOW, ESPECIAL HALLOWEEN",
+        "image": "https://pics.filmaffinity.com/the_paloni_show_halloween_special-150998982-large.jpg",
+        "url": "https://vidmoly.to/embed-o697gek31dvo.html",
+       	"info": "2022",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "PAW PATROL, LA SUPER PELICULA",
+        "image": "https://i.postimg.cc/KjzCTzcW/PAW-PATROL-LA-SUPER-PELICULA.png",
+        "url": "https://upstream.to/yp9c32fiqax7",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{ 
+	"name": "PATRULLA CANINA, LA",
+	"info": "2013",
+	"image": "https://es.web.img2.acsta.net/pictures/21/06/07/13/39/2336288.jpg", 
+	"url": "https://upstream.to/whe6u40ap15b",
+        "embed":"",
+        "online":"true",
+	"isHost":"true"
+	},
+	{ 
+	"name": "PELICULA DE MINECRAFT, UNA",
+	"info": "2025",
+	"image": "https://pics.filmaffinity.com/a_minecraft_movie-227832687-large.jpg", 
+	"url": "https://filemoon.to/d/g08ys5080jaf/Una_pel_cula_de_Minecraft__2025__pelicula_castellano.mp4",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+       	"import": false
+       	},
+	{
+       	"name": "PESADILLA ANTES DE NAVIDAD",
+        "image": "https://pics.filmaffinity.com/the_nightmare_before_christmas-136057718-large.jpg",
+        "url": "https://filemoon.sx/d/eic1j9uf205q",
+       	"info": "1993",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+       	"import": false
+       	},
+	{
+       	"name": "PICO DE ORO Y SUS AMIGOS",
+        "image": "https://pics.filmaffinity.com/goldbeak-994534069-large.jpg",
+        "url": "https://listeamed.net/v/4bQVOj3Q1Gm5wKm",
+       	"info": "2023",
+		"userAgent":"PlusMediaPlayer/0.0.9",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+       	"import": false
+       	},
+		{
+        "name": "PITUFOS, LOS",
+        "image": "https://pics.filmaffinity.com/smurfs-178339408-large.jpg",
+        "url": "https://filemoon.to/d/05fa7vmw0gwk/Pitufos__2025__Pelicula.mp4",
+        "info": "[2025]",
+		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"referer": "",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+        },
+	{
+       	"name": "POLAR EXPRESS, THE",
+        "image": "https://pics.filmaffinity.com/the_polar_express-375183738-large.jpg",
+        "url": "https://filemoon.to/d/k2quvcqthkm9/Polar_express_2004_Pelicula_Infantil_esp_1080p_mp4.mp4",
+       	"info": "2004",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+        "name": "PRINCESA, AVENTURA EN EL CASTILLO",
+       	"image": "https://i.postimg.cc/jS5kSKYC/kt-Azb7-Ygf3hwq84t-OWXL8ox832k.jpg",
+        "url": "https://upstream.to/2bqhzmmqblnp",
+        "info":"2023",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+	},
+	{ 
+	"name": "PRINCESA CISNE, UNA BODA REAL",
+	"info": "2020",
+	"image": "https://i.postimg.cc/9f6Yq4B5/Princesa-Cisne-una-boda-real-2020-Pelicula-infantil.jpg", 
+	"url": "https://upstream.to/1snso05bxlef",
+        "embed":"",
+        "online":"true",
+	"isHost":"true" 
+	},
+	{
+	"name": "PRODIGIOSA, LAS AVENTURAS DE LADYBUG",
+	"info": "2023",
+	"image": "https://i.postimg.cc/MKdW5DmK/photo-2023-07-28-20-11-32.jpg", 
+	"url": "http://vidmoly.me/w/y2gkj8ez10d8",
+	"embed":"",
+	"isHost":"true",
+	"online":"true",
+	"import": false
+	},
+	{
+        "name": "RALPH ROMPE INTERNET",
+        "image": "https://pics.filmaffinity.com/ralph_breaks_the_internet-862794954-large.jpg",
+        "url": "https://filemoon.to/d/p7svsuay07o1/Ralph_Rompe_Internet__2018___CanalesLocos_.mkv",
+        "info": "2018",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+        },
+	{ 
+	"name": "RATONPOLIS",
+       	"info":"2006",
+	"image": "https://i.postimg.cc/MTq52szv/Rato-npolis-2006-Pelicula-familiar.jpg",
+	"url": "https://upstream.to/4t7xzngmvff1",
+       	"embed":"",
+       	"isHost":"true",
+       	"online":"true"
+	},
+	{ 
+	"name": "RATATOUILLE",
+    "info":"2022",
+	"image": "https://educayaprende.com/wp-content/uploads/2014/05/ratatouille-cover-caratula-dvd-disney-pixar.jpg",
+	"url": "https://filemoon.to/d/jnur24y8wgnk/Ratatouille",
+	"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+	"referer": "",
+    "embed":"",
+    "isHost":"true",
+    "online":"true",
+    "import": false
+	},
+	{ 
+	"name": "RAYA Y EL ÚLTIMO DRAGÓN",
+       	"info":"2022",
+	"image": "https://lumiere-a.akamaihd.net/v1/images/p_rayaandthelastdragon_es_06f8daf0.jpeg?region=0,0,540,810",
+	"url": "https://uqload.com/vxwtoglca1wo.html",
+       	"embed":"",
+       	"isHost":"true",
+       	"online":"true"
+	},
+       	{
+       	"name": "RED",
+       	"info":"2022",
+       	"image": "https://i.postimg.cc/FRsgys7m/Red-2022-pelicula-infantil.jpg",
+       	"url": "https://upstream.to/17492xzkezol",
+       	"embed":"",
+       	"isHost":"true",
+       	"online":"true"
+       	},
+       	{
+       	"name": "RENO 911",
+       	"info": "2022",
+       	"image": "https://i.postimg.cc/Z512TJmM/Reno-911-2022-Pelicula-familiar.jpg",
+       	"url": "https://upstream.to/twjtns55s7sk",
+       	"embed":"",
+       	"isHost":"true",
+       	"online":"true"
+       	},
+       	{
+       	"name": "RESCATE DE RUBY, EL",
+       	"info": "2022",
+       	"image": "https://i.postimg.cc/0jvcTWsM/Rescate-de-Ruby-El-2022-Pelicula-infantil.jpg",
+       	"url": "https://upstream.to/s17r8idur2vm",
+       	"embed":"",
+       	"isHost":"true",
+       	"online":"true"
+       	},
+	{ 
+	"name": "RETORNO DE LAS BRUJAS 2, EL",
+	"info": "2022",
+	"image": "https://www.broadwayworld.com/ezoimgfmt/cloudimages.broadwayworld.com/columnpiccloud/21661918419.jpg?ezimgfmt=rs:250x308/rscb26/ngcb26/notWebP", 
+	"url": "https://uqload.com/hxnrd9872kit.html",
+       	"embed":"",
+       	"isHost":"true",
+       	"online":"true" 
+	},
+	{
+	"name": "REY LEON",
+       	"image": "https://pics.filmaffinity.com/the_lion_king-357729583-large.jpg",
+       	"url": "https://filemoon.to/d/0kn6rs9uj6x4/El_Rey_Leon__2019__Pelicula_Infantil_espa_ol.mp4",
+       	"info":"2019",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"embed":"",
+       	"isHost":"true",
+       	"online":"true",
+       	"import": false
+	},
+	{
+	"name": "REY MONO",
+       	"image": "https://i.postimg.cc/K8sRScQf/El-Rey-Mono-232332190-large.jpg",
+       	"url": "https://upstream.to/31de1yhemlgt",
+       	"info":"2023",
+       	"embed":"",
+       	"isHost":"true",
+       	"online":"true",
+       	"import": false
+	},
+	{ 
+	"name": "RIVERDANCE AVENTURA ANIMADA",
+	"info": "2021",
+	"image": "https://pics.filmaffinity.com/Riverdance_La_aventura_animada-364708113-large.jpg", 
+	"url": "https://uqload.com/c8zwpszmbgbk.html",
+       	"embed":"",
+       	"isHost":"true",
+       	"online":"true"  
+	},
+	{ 
+	"name": "ROBOT SALVAJE (WILD ROBOT)",
+	"image": "https://pics.filmaffinity.com/the_wild_robot-598191664-large.jpg", 
+	"url": "https://filemoon.to/d/b6quce0kmb8o/Robot_salvaje__2024__Pelicula_espa_ol.mp4",
+	"info": "[Español 2024]",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"embed":"",
+       	"isHost":"true",
+       	"online":"true"
+	},
+	{ 
+	"name": "ROBOT SALVAJE (WILD ROBOT)",
+	"info": "[Latino 2024]",
+	"image": "https://pics.filmaffinity.com/the_wild_robot-598191664-large.jpg", 
+	"url": "https://filemoon.to/d/36ulpl1k9jsi/Robot_salvaje__The_wild_robot___2024_.mp4",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"embed":"",
+       	"isHost":"true",
+       	"online":"true"
+	},
+	{ 
+	"name": "ROBOT SALVAJE (WILD ROBOT)",
+	"info": "[VOSE 2024]",
+	"image": "https://pics.filmaffinity.com/the_wild_robot-598191664-large.jpg", 
+	"url": "https://listeamed.net/v/8lKQxYQDoe7xDGY",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"embed":"",
+       	"isHost":"true",
+       	"online":"true"
+	},
+	{ 
+	"name": "RON DA ERROR",
+	"info": "2021",
+	"image": "https://lumiere-a.akamaihd.net/v1/images/image_d47d3d91.jpeg?region=0%2C0%2C540%2C810", 
+	"url": "https://uqload.com/qd7rs3bjvzri.html",
+       	"embed":"",
+       	"isHost":"true",
+       	"online":"true"
+	},
+	{ 
+        "name": "RUBY, AVENTURAS DE UNA KRAKEN ADOLESCENTE",
+	"info": "2023",
+        "image": "https://i.postimg.cc/Ssfx7dGN/Ruby-aventuras-de-una-Kraken-adolescente-2023-Pelicula-infantil.jpg", 
+        "url": "https://upstream.to/jtq5rk8s8ybb", 
+       	"embed":"",
+       	"isHost":"true",
+       	"online":"true"
+        },
+	{ 
+        "name": "RUMBLE - STEVE Y LA LIGA DE LOS MONSTRUOS",
+	"info": "2021",
+        "image": "https://i.postimg.cc/rwfQYZd1/Rumble-Steve-y-la-liga-de-los-monstruos-2022-Pelicula-infantil.jpg", 
+        "url": "https://upstream.to/pmb71up4gnhu", 
+       	"embed":"",
+       	"isHost":"true",
+       	"online":"true"
+        },
+	{
+	"name": "RUTA HACIA EL DORADO",
+	"info": "2000",
+	"url": "https://filemoon.to/d/s5zvb1gfbpyp/Camino_al_Dorado_2000_Pelicula.mp4",
+	"image": "https://pics.filmaffinity.com/the_road_to_el_dorado-125281051-large.jpg",
+	"embed":"",
+	"isHost":"true",
+	"online":"true",
+	"import": false
+	},
+	{ 
+        "name": "SAHARA",
+	"info": "2017",
+        "image": "https://i.postimg.cc/G2Q4Z12X/Sahara-2018-Pelicula-infantil.jpg", 
+        "url": "https://upstream.to/kvhdg5xhg1od",
+      	"embed":"",
+       	"isHost":"true",
+       	"online":"true",
+       	"import": false
+        },
+	{ 
+        "name": "SALVAR EL ÁRBOL",
+	"info": "2021",
+        "image": "https://pics.filmaffinity.com/Salvar_el_rbol-146451372-large.jpg", 
+        "url": "https://upstream.to/25ur4dlu1n5m",
+       	"embed":"",
+       	"isHost":"true",
+       	"online":"true",
+       	"import": false
+        },
+	{ 
+        "name": "SANTA HOMER, LOS SIMPSON",
+        "image": "https://pics.filmaffinity.com/the_simpsons_o_c_mon_all_ye_faithful-542288975-large.jpg", 
+        "url": "https://filemoon.to/d/bm61bmdgxkf5/Santa_Homer_2024_Pelicula_infantil_espa_ol__1080_.mp4",
+	"info": "2024",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"embed":"",
+       	"isHost":"true",
+       	"online":"true",
+       	"import": false
+        },
+	{ 
+        "name": "SCOOBY-DOO Y KRYPTO, TOO",
+	"info": "2023",
+        "image": "https://i.postimg.cc/cLsqfMFS/Scooby-Doo-y-Krypto-too-2023-Pelicula-familiar.jpg", 
+        "url": "https://upstream.to/wbunwvn1ule7",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"embed":"",
+       	"isHost":"true",
+       	"online":"true",
+       	"import": false
+        },
+	{ 
+        "name": "SEMANAS MAGICAS, LAS",
+	"info": "2023",
+        "image": "https://i.postimg.cc/XqPZB27Z/Semanas-m-gicas-Las-HDRip-2023-Pelicula-familiar.jpg", 
+        "url": "https://upstream.to/wmzedlllm75u",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+      	"embed":"",
+       	"isHost":"true",
+       	"online":"true",
+       	"import": false
+        },
+	{ 
+	"name": "SHAZAM LA FURIA DE LOS DIOSES",
+	"info": "2023",
+	"image": "https://i.postimg.cc/yd2Cw3mV/Shazam-La-furia-de-los-dioses-2023-Pelicula-infantil.jpg", 
+	"url": "https://upstream.to/mwgxg7ibh3qq",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"embed":"",
+       	"isHost":"true",
+       	"online":"true",
+       	"import": false
+	},
+	{ 
+	"name": "SIRENITA, LA",
+	"info": "1989",
+	"image": "https://i.postimg.cc/mkxNK1JL/La-Sirenita-1989-Pelicula-infantil.jpg", 
+	"url": "https://upstream.to/167mq1x5e8gu",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"embed":"",
+       	"isHost":"true",
+       	"online":"true",
+       	"import": false
+	},
+	{ 
+	"name": "SIRENITA, LA - REGRESO AL MAR",
+	"info": "2000",
+	"image": "https://i.postimg.cc/MKmbrTDw/La-Sirenita-2-regreso-al-mar-2000-Pelicula-infantil.jpg", 
+	"url": "https://upstream.to/918n72ycb240",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"embed":"",
+       	"isHost":"true",
+       	"online":"true",
+       	"import": false
+	},
+	{ 
+	"name": "SIRENITA, LA - EL COMIENZO DE ARIEL",
+	"info": "2008",
+	"image": "https://i.postimg.cc/mrtYDSGZ/La-Sirenita-3-El-comienzo-de-Ariel-2008-Pelicula-infantil.jpg", 
+	"url": "https://upstream.to/46by0tcf7kk2",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"embed":"",
+       	"isHost":"true",
+       	"online":"true",
+       	"import": false
+	},
+	{ 
+        "name": "SIRENITA, LA",
+	"info": "2023",
+	"image": "https://i.postimg.cc/HkqjhZFs/Fr-EE7q-FWIAMd0sd.webp", 
+	"url": "https://upstream.to/sqoudyic3yak",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"embed":"",
+       	"isHost":"true",
+       	"online":"true",
+       	"import": false
+	},
+		{
+		"name": "SNOOPY PRESENTA: POR LOS VIEJOS TIEMPOS",
+       	"image": "https://pics.filmaffinity.com/for_auld_lang_syne-695377456-large.jpg",
+       	"url": "https://filemoon.to/d/axe4wmlicb8h/Snoopy_Presenta_Por_Los_Viejos_Tiempos",
+		"info": "[2021][]",
+		"embed": "",
+		"isHost": "true",
+		"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+       	"import": false
+       	},
+		{
+		"name": "SNOOPY PRESENTA: SON LAS PEQUEÑAS COSAS, CARLITOS",
+       	"image": "https://pics.filmaffinity.com/it_s_the_small_things_charlie_brown-943102163-large.jpg",
+       	"url": "https://filemoon.to/d/njwfl62qtvjw/Snoopy_presenta_son_las_peque_as_cosas_Carlitos",
+		"info": "[2022][]",
+		"embed": "",
+		"isHost": "true",
+		"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+       	"import": false
+       	},
+		{
+		"name": "SNOOPY PRESENTA: PARA MAMA (Y PAPA) CON AMOR",
+       	"image": "https://pics.filmaffinity.com/to_mom_and_dad_with_love-159476049-large.jpg",
+       	"url": "https://filemoon.to/d/ibrygkejueov/Snoopy_presenta_para_mam__y_pap__con_amor",
+		"info": "[2022][]",
+		"embed": "",
+		"isHost": "true",
+		"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+       	"import": false
+       	},
+		{
+		"name": "SNOOPY PRESENTA: EL COLE DE LUCY",
+       	"image": "https://pics.filmaffinity.com/peanuts_lucy_s_school-692476070-large.jpg",
+       	"url": "https://filemoon.to/d/ct9s3gm1sm8r/Snoopy_presenta_El_cole_de_Lucy",
+		"info": "[2022][]",
+		"embed": "",
+		"isHost": "true",
+		"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+       	"import": false
+       	},
+		{
+		"name": "SNOOPY PRESENTA: LA UNICA E INIGUALABLE MARCIE",
+       	"image": "https://pics.filmaffinity.com/snoopy_presents_one_of_a_kind_marcie-532086648-large.jpg",
+       	"url": "https://filemoon.to/d/5tlt1fy3u5p3/Snoopy_presenta_La__nica_e_inigualable_Marcie",
+		"info": "[2023][]",
+		"embed": "",
+		"isHost": "true",
+		"online": "true",
+		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+       	"import": false
+       	},
+		{
+        "name": "SNOOPY PRESENTA: UN MUSICAL DE VERANO",
+        "image": "https://pics.filmaffinity.com/snoopy_presents_a_summer_musical-505107405-large.jpg",
+        "url": "https://filemoon.to/d/2s996dtkgnu7/Snoopy_presenta_Un_musical_veraniego",
+        "info": "[2025][Animación Familia Musical]",
+		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"referer": "",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+        },
+	{ 
+	"name": "SONIC, LA PELICULA",
+	"info": "2020",
+	"image": "https://i.postimg.cc/J0srRgzz/Sonic-la-pelicula-2020-Pelicula-infantil.jpg", 
+	"url": "https://upstream.to/wj9ojxofou6z",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+	},
+	{ 
+	"name": "SONIC 2, LA PELICULA",
+	"info": "2022",
+	"image": "https://i.postimg.cc/pXZHgRZJ/Sonic-2-la-pelicula-2022-Pelicula-infantil.jpg", 
+	"url": "https://upstream.to/5x0cd6cbdha5",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+	},
+	{ 
+        "name": "SPACE JAM, NUEVAS LEYENDAS",
+        "image": "https://pics.filmaffinity.com/space_jam_a_new_legacy-632882849-large.jpg", 
+        "url": "https://filemoon.to/d/innoy8y3om2i/Space_Jam._Nuevas_Leyendas__2021__Pelicula_animacion_castellano.mp4",
+	"info": "2021",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"embed":"",
+       	"isHost":"true",
+       	"online":"true",
+       	"import": false
+        },
+		{
+        "name": "SPERMAGEDDON",
+        "image": "https://pics.filmaffinity.com/spermageddon-392851024-large.jpg",
+        "url": "https://filemoon.to/d/x4501ctknwc3/Spermageddon",
+        "info": "[2025]",
+		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"referer": "",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+        },
+	{ 
+	"name": "SPIN",
+	"info": "2021",
+	"image": "https://i.postimg.cc/BQGrN4kj/Spin-2021-Pelicula-infantil.jpg", 
+	"url": "https://upstream.to/2rzn4r0k2x37",
+       	"embed":"",
+       	"isHost":"true",
+       	"online":"true",
+       	"import": false
+	},
+	{ 
+	"name": "SPIRIT, EL INDOMABLE",
+	"info": "2021",
+	"image": "https://i.postimg.cc/WbbPs08r/Spirit-indomable-2021-Pelicula-familiar.jpg", 
+	"url": "https://upstream.to/k23yj6iynlx5",
+       	"embed":"",
+       	"isHost":"true",
+       	"online":"true",
+       	"import": false
+	},
+	{
+       	"name": "SUPER MARIO BROS 3",
+       	"info":"2023",
+       	"image": "https://i.postimg.cc/kXZtmTS8/Super-Mario-Bros-la-pelicula-2023-Pelicula-infantil.jpg",
+       	"url":"https://filemoon.to/d/vvnjy0hdbg25",
+	"embed":"",
+       	"isHost":"true",
+       	"online":"true" 
+	},
+	{
+	"name": "SUPERMONSTRUOS, ERASE UNA VEZ UN CUENTO",
+       	"image": "https://pics.filmaffinity.com/super_monsters_once_upon_a_rhyme-387602828-large.jpg",
+      	"url": "https://upstream.to/dslj0fcbjisd",
+	"info": "2021",
+	"embed": "",
+	"isHost": "true",
+	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"import": false
+	},
+	{
+	"name": "SUPER WOMBAT",
+	"info": "2020",
+	"image": "https://pics.filmaffinity.com/Super_Wombat-309829985-mmed.jpg",
+	"url": "https://upstream.to/67m1vumf7etj",
+       	"embed":"",
+       	"isHost":"true",
+       	"online":"true",
+       	"import": false
+	},
+	{
+       	"name": "SWAN PRINCESS: FAR LONGER THAN FOREVER, THE",
+        "image": "https://pics.filmaffinity.com/the_swan_princess_far_longer_than_forever-287871452-large.jpg",
+        "url": "https://upstream.to/9d3tzd08fgvp",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+
+{
+"name": "THOMAS Y AMIGOS: SOODR CANTA UNIDO",
+"image": "https://pics.filmaffinity.com/thomas_friends_sodor_sings_together-400747109-large.jpg",
+"url": "https://filemoon.to/d/xfabhvfi5xox/Thomas_y_amigos_Sodor_canta_unido",
+"info": "[2025][Animación Familia]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+		{
+        "name": "TIANA Y EL SAPO",
+        "image": "https://pics.filmaffinity.com/the_princess_and_the_frog-688262583-large.jpg",
+        "url": "https://filemoon.to/d/aefa93jalkjz/Tiana_y_el_sapo",
+        "info": "[2009]",
+		"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+		"referer": "",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+        },
+	{
+       	"name": "TIPOS MALOS, UNA NAVIDAD MUY MALA",
+        "image": "https://pics.filmaffinity.com/the_bad_guys_a_very_bad_holiday-827975614-large.jpg",
+        "url": "https://upstream.to/c0ahz5dvjzv5",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+       	"name": "TORTUGAS NINJAS, CAOS MUTANTE",
+        "image": "https://pics.filmaffinity.com/teenage_mutant_ninja_turtles_mutant_mayhem-718403565-large.jpg",
+        "url": "https://upstream.to/atdq5buwkr1y",
+       	"info": "2023",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+        "name": "TOY STORY 1",
+	"info": "1995",
+        "image": "https://pics.filmaffinity.com/toy_story-626273371-large.jpg", 
+        "url": "https://filemoon.to/d/v78a5xci1spp/Toy_Story_1995_espa_ol_DVDRip_avi.mp4",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+        }, 
+	{ 
+        "name": "TOY STORY 2",
+	"info": "1999",
+        "image": "https://pics.filmaffinity.com/toy_story_2-506817944-large.jpg", 
+        "url": "https://filemoon.to/d/g426wu6tzdtq/Toy_Story_2_Los_juguetes_vuelven_carga_1999_Castellano_mkv.mp4",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+        }, 
+	{ 
+        "name": "TOY STORY 3",
+	"info": "2010",
+        "image": "https://pics.filmaffinity.com/toy_story_3-691147043-large.jpg", 
+        "url": "https://filemoon.to/d/99rhzl9gpy63/Toy_Story_3_2010_castellano_HDRip_avi.mp4",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+        },
+	{ 
+        "name": "TOY STORY, TERROR",
+	"info": "2013",
+        "image": "https://pics.filmaffinity.com/disney_pixar_s_toy_story_of_terror-524873834-large.jpg", 
+        "url": "https://filemoon.to/d/r4ir9f6m93s7/Toy_Story__Terror!_2013_Online_Castellano_HD_-_HDFull.mp4",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+        }, 
+	{ 
+        "name": "TOY STORY, EL TIEMPO PERDIDO",
+	"info": "2014",
+        "image": "https://pics.filmaffinity.com/toy_story_that_time_forgot-472377907-large.jpg", 
+        "url": "https://filemoon.to/d/qhidlfvhea92/Toy_Story_Tiempo_Perdido_2014_esp_dvdrip_mp4.mp4",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+        }, 
+	{ 
+        "name": "TOY STORY 4",
+	"info": "2019",
+        "image": "https://pics.filmaffinity.com/toy_story_4-462756582-large.jpg", 
+        "url": "https://filemoon.to/d/chupcy72ue93/Toy_Story_4_2019_1080p_Cast_mkv.mp4",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+	},
+	{ 
+        "name": "TROLLS 1",
+        "image": "https://pics.filmaffinity.com/trolls-351313154-large.jpg", 
+	"info": "2016",
+        "url": "https://filemoon.to/d/gadu6hzx119c/Trolls_1_2016_Castellano_mkv.mp4",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+	},
+	{ 
+        "name": "TROLLS, DIAS DE FIESTA ",
+        "image": "https://pics.filmaffinity.com/trolls_holiday-133772427-large.jpg", 
+	"info": "2017",
+        "url": "https://filemoon.to/d/anzq113ante5/Trolls_Dias_fiesta_Especial_2017_castellano_DVDR_avi.mp4",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+	},
+	{ 
+        "name": "TROLLS 2, GIRA MUNDIAL",
+        "image": "https://i.postimg.cc/3RvyBd2B/Trolls-2-Gira-Mundial-2020-Pelicula-infantil.jpg", 
+	"info": "2020",
+        "url": "https://filemoon.to/d/7to27rbxgkrc/Trolls_2_world_tour_2020_esp_720p_mp4.mp4",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+	},
+	{ 
+        "name": "TROLLS, FIESTAS EN ARMONIA",
+        "image": "https://pics.filmaffinity.com/trolls_holiday_in_harmony-408912727-large.jpg", 
+	"info": "2021",
+        "url": "https://filemoon.to/d/uwxabufxdl95/Trolls_holiday_harmony_2021_lat_720p_mp4.mp4",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+	},
+	{ 
+        "name": "TROLLS 3, TODOS JUNTOS",
+        "image": "https://pics.filmaffinity.com/trolls_band_together-317254315-large.jpg", 
+	"info": "2023",
+        "url": "https://filemoon.to/d/q1s97ed9321x/Trolls_3_Todos_Juntos_2023_1080p_Cast_mp4_2.mp4",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+	},
+
+	{ 
+	"name": "UN MUNDO DE FANTASIA WILLY WONKA Y LA FABRICA DE CHOCOLATE",
+	"info": "1971",
+	"image": "https://i.postimg.cc/rsybvwBh/Un-Mundo-de-Fantasia-Willy-Wonka-1971-Pelicula-infantil.jpg", 
+	"url": "https://listeamed.net/v/ZMVoErookvqO9Pa",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+        },
+	{ 
+	"name": "UP",
+	"info": "2009",
+	"image": "https://i.postimg.cc/CxsgpYs4/UP-2009-Pelicula-infantil.jpg",
+	"url": "https://listeamed.net/v/4bQVOjJJkPvOwKm",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+        },
+
+	{
+        "name": "VECINOS INVASORES",
+        "image": "https://pics.filmaffinity.com/over_the_hedge_hammy_s_boomerang_adventure-909296503-large.jpg",
+        "url": "https://filemoon.to/d/fvl7n72dzz6f/Vecinos_Invasores__2006_._DreamWorks_Animation_.mkv",
+        "info": "2006",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+        },
+	{ 
+	"name": "VESTIDO DE OSKAR, EL",
+	"info": "2022",
+	"image": "https://i.postimg.cc/908ycX6R/El-vestido-de-Oskar-2022-Pelicula-familiar.jpg", 
+	"url": "https://upstream.to/yxqzvzw0emrv", 
+       	"embed":"",
+       	"isHost":"true",
+       	"online":"true",
+       	"import": false
+	},
+	{ 
+	"name": "VIAJE DE ARLO, EL",
+	"info": "2015",
+	"image": "https://i.postimg.cc/65hWt9MQ/Viaje-de-Arlo-El-2015-Pelicula.jpg", 
+	"url": "https://upstream.to/fqq1a5hzbfwt", 
+       	"embed":"",
+       	"isHost":"true",
+       	"online":"true",
+       	"import": false
+	},
+{
+"name": "VIDA A LO GRANDE, MI",
+"image": "https://pics.filmaffinity.com/living_large-840016632-large.jpg",
+"url": "https://filemoon.to/d/a5k8vhe97ib6/Mi_vida_a_lo_grande",
+"info": "[2024][Animación Comedia Familia]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+	{
+	"name": "VIOLETA EL HADA TRAVIESA",
+	"info": "2023",
+	"image": "https://i.postimg.cc/y6mSF9Yb/Violeta-el-hada-traviesa-881943136-large.jpg", 
+	"url": "https://upstream.to/ms3uosktbdbb",
+	"embed":"",
+	"isHost":"true",
+	"online":"true",
+	"import": false
+	},
+
+       	{
+       	"name": "WALLACE Y GROMIT Y LA MALDICION DE LAS VERDURAS",
+       	"image": "https://i.postimg.cc/V6NNY64r/Wallace-Y-Gromit-La-Maldicion-De-Las-Verduras-2005-Pelicula-infantil.jpg",
+       	"url": "https://upstream.to/ut9u1632ihpo",
+       	"info":"2005",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+        },
+       	{
+       	"name": "WALL-E",
+       	"image": "https://i.postimg.cc/TwZhCxqK/Wall-e-2008-Pelicula-infantil.jpg",
+       	"url": "https://upstream.to/hhzxu7vu4ini",
+       	"info":"",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+        },
+       	{
+       	"name": "WINNIE THE POOH, LO MEJOR",
+       	"image": "https://i.postimg.cc/5ygWDPhS/Winnie-the-Pooh-1977-Pelicula-infantil.jpg",
+       	"url": "https://upstream.to/3hjiv75z0vi9",
+       	"info":"1977",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+        },
+       	{
+       	"name": "WINNIE THE POOH",
+       	"image": "https://i.postimg.cc/qvCZ3b1D/Winnie-the-Pooh-2011-Pelicula-infantil.jpg",
+       	"url": "https://upstream.to/fr62sf1o098u",
+       	"info":"2011",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+        },
+       	{
+       	"name": "WINX LA MAGICA AVENTURA",
+       	"image": "https://i.postimg.cc/W3mxf600/Winx-La-magica-aventura-2010-Pelicula-infantil.jpg",
+       	"url": "https://upstream.to/v6c1puvkgewu",
+       	"info":"2010",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+        },
+	{
+      	"name": "WISH, EL PODER DE LOS DESEOS",
+      	"image": "https://pics.filmaffinity.com/Wish_El_poder_de_los_deseos-138082458-large.jpg",
+      	"url": "https://listeamed.net/v/Ro7kOVJDpbZOZWB",
+      	"info": "[2024]",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+        },
+
+       	{
+       	"name": "YUKU Y LA FLOR DEL HIMALAYA",
+       	"image": "https://i.postimg.cc/KjSknVW4/Yuku-y-la-flor-del-Himalaya-2022-Pelicula-familiar.jpg",
+       	"url": "https://upstream.to/1dgnalvred80",
+       	"info": "2022",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+       	"import": false
+       	},
+      	{
+       	"name": "ZOE Y TEMPESTAD",
+       	"image": "https://i.postimg.cc/PxBMBQwp/Zoe-y-Tempestad-2022-Pelicula-familiar.jpg",
+       	"url": "https://upstream.to/a2vg7v0pjhk3",
+       	"info":"2O22",
+       	"embed":"",
+       	"isHost":"true",
+       	"online":"true",
+       	"import": false
+       	},
+	{
+        "name": "ZOOTROPOLIS",
+        "image": "https://pics.filmaffinity.com/zootopia-155827662-large.jpg",
+        "url": "https://filemoon.to/d/fq7xlg1q2z3n/Zootropolis_-_2016_-_DVDRemux_-_CENTURYON_.mkv",
+        "info": "2016",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+	"referer": "",
+        "embed":"",
+        "isHost":"true",
+        "online":"true",
+        "import": false
+        }
+
+
+    ]
+}  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
