@@ -1,13 +1,8 @@
-{"name": "BLACKLIST",
-"image":"https://i.ibb.co/PXf5H4p/samara.png",
+{"name": "Cine",
+"image":"https://i.ibb.co/LfkSp9d/1852.jpg",
 "url": "https://raw.githubusercontent.com/Blacklist1976/Blacklist/refs/heads/main/Cine.w3u",
 "author": "Black",
-"groups": [
-
-{"name": "CINE",
-"image":"https://i.ibb.co/LfkSp9d/1852.jpg",
 "stations": [
-
 
 {"name": "Ballerina",
 "image": "https://i.ibb.co/j49LnT4/ballerina.jpg",
@@ -2217,6 +2212,7 @@
 "isHost": "true",
 "online": "true",
 "import": false}]}]}
+
 
 
 
