@@ -1,9 +1,14 @@
-{"name": "Series",
+{"name": "BLACKLIST",
+"image":"https://i.ibb.co/PXf5H4p/samara.png",
+"url": "https://raw.githubusercontent.com/Blacklist1976/Blacklist/refs/heads/main/Cine.w3u",
 "author": "Black",
-"image": "https://logos.flamingtext.com/Word-Logos/series-design-sketch-name.png",
-"url": "https://raw.githubusercontent.com/Blacklist1976/Blacklist/refs/heads/main/Series.w3u",
-"groups": 
+"groups": [
+
+{"name": "Series",
+"image": "https://www.series.pt/images/series_design_logo_black.png",
+"stations": 
 	[
+
 		{"name": "2 chicas sin blanca",
 		"image": "https://pics.filmaffinity.com/2_broke_girls-673883061-large.jpg",
 		"url": "https://raw.githubusercontent.com/af1Series1/Series/refs/heads/main/serie%20DOS%20CHICAS%20SIN%20BLANCA.w3u",
@@ -3927,6 +3932,7 @@
 ]
 }
        
+
 
 
 
