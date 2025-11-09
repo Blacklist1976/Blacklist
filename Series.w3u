@@ -5,171 +5,199 @@
 "groups": 
 	[
 
-		{"name": "2 chicas sin blanca",
+		{
+		"name": "2 chicas sin blanca",
 		"image": "https://pics.filmaffinity.com/2_broke_girls-673883061-large.jpg",
 		"url": "https://raw.githubusercontent.com/af1Series1/Series/refs/heads/main/serie%20DOS%20CHICAS%20SIN%20BLANCA.w3u",
-		"import": false},
-
-
-		{"name": "2 Hombres y medio",
+		"info": "bY Af1cionados",
+		"import": false
+		},
+		{
+		"name": "2 Hombres y medio",
 		"image": "https://pics.filmaffinity.com/two_and_a_half_men-390220233-large.jpg",
 		"url": "https://series-af1cionados.vercel.app/serie%202%20HOMBRES%20Y%20MEDIO.w3u",
-		"import": false},
-
-
-		{"name": "2 Tumbas",
+		"info": "bY Af1cionados",
+		"import": false
+		},
+		{
+		"name": "2 Tumbas",
 		"image": "https://pics.filmaffinity.com/dos_tumbas-792128016-large.jpg",
 		"url": "https://raw.githubusercontent.com/af1Series1/Series/refs/heads/main/serie%202%20TUMBAS.w3u",
-		"import": false},
-
-
-		{"name": "8 Show",
+		"info": "bY Af1cionados",
+		"import": false
+		},
+		{
+		"name": "8 Show",
 		"image": "https://pics.filmaffinity.com/the_8_show-257378497-large.jpg",
 		"url": "https://series-af1cionados.vercel.app/serie%208%20SHOW.w3u",
-		"import": false},
-
-
-		{"name": "10 Libras y Un Sueño",
+		"info": "bY Af1cionados",
+		"import": false
+		},
+		{
+		"name": "10 Libras y Un Sueño",
 		"image": "https://pics.filmaffinity.com/ten_pound_poms-723106626-large.jpg",
 		"url": "https://raw.githubusercontent.com/af1Series1/Series/refs/heads/main/serie%2010%20LIBRAS%20SUE%C3%91O.w3u",
-		"import": false},
-
-
-		{"name": "100 años de soledad",
+		"info": "bY Af1cionados",
+		"import": false
+		},
+		{
+		"name": "100 años de soledad",
 		"image": "https://pics.filmaffinity.com/cien_anos_de_soledad-606630216-large.jpg",
 		"url": "https://series-af1cionados.vercel.app/serie%20100%20AÑOS%20SOLEDAD.w3u",
-		"import": false},
-
-
-		{"name": "Los 100",
+		"info": "bY Af1cionados",
+		"import": false
+		},
+		{
+		"name": "Los 100",
 		"image": "https://pics.filmaffinity.com/the_hundred-674895049-large.jpg",
 		"url": "https://series-af1cionados.vercel.app/serie%20100%20LOS.w3u",
-		"import": false},
-
-
-		{"name": "1000 Golpes",
+		"info": "bY Af1cionados",
+		"import": false
+		},
+		{
+		"name": "1000 Golpes",
 		"image": "https://pics.filmaffinity.com/a_thousand_blows-470835074-large.jpg",
 		"url": "https://series-af1cionados.vercel.app/serie%201000%20GOLPES.w3u",
-		"import": false},
-
-
-		{"name": "1992",
+		"info": "bY Af1cionados",
+		"import": false
+		},
+		{
+		"name": "1992",
 		"image": "https://pics.filmaffinity.com/1992-689216468-large.jpg",
 		"url": "https://af1c1onados.vercel.app/Series.1992.w3u",
-		"import": false},
-
-		
-		{"name": "1899",
+		"info": "bY. yIsus",
+		"import": false
+		},		
+		{
+		"name": "1899",
 		"image": "https://pics.filmaffinity.com/1899-620331296-large.jpg",
 		"url": "https://af1cionados.vercel.app/serie 1899.w3u",
-		"import": false},
-
-
-		{"name": "30 Monedas",
+		"info": "bY Af1cionados",
+		"import": false
+		},
+		{
+		"name": "30 Monedas",
 		"image": "https://pics.filmaffinity.com/30_monedas_t2-490944362-large.jpg",
 		"url": "https://af1cionados.vercel.app/serie%2030%20MONEDAS.w3u",
-		"import": false},
-
-
-		{"name": "A Gentleman in Moscow",
+		"info": "bY Af1cionados",
+		"import": false
+		},
+		{
+		"name": "A Gentleman in Moscow",
 		"image": "https://pics.filmaffinity.com/A_Gentleman_in_Moscow_Un_caballero_en_Moscau_Miniserie_de_TV-797814871-large.jpg",
+		"info": "bY. yIsus",
 		"url": "https://af1c1onados.vercel.app/Series.Gentleman.in.Moscow.w3u",
-		"import": false},
-
-
-		{"name": "A qué estas esperando",
+		"import": false
+		},
+		{
+		"name": "A qué estas esperando",
 		"image": "https://pics.filmaffinity.com/a_que_estas_esperando-325817681-large.jpg",
 		"url": "https://series-af1cionados.vercel.app/serie%20A%20QUE%20ESTAS%20ESPERANDO.w3u",
-		"import": false},
-
-
-		{"name": "Las abogadas",
+		"info": "bY Af1cionados",
+		"import": false
+		},
+		{
+		"name": "Abogadas, Las",
 		"image": "https://pics.filmaffinity.com/las_abogadas-780110917-large.jpg",
 		"url": "https://series-af1cionados.vercel.app/serie%20ABOGADAS.w3u",
-		"import": false},
-
-
-		{"name": "El abogado del Lincoln",
+		"info": "bY Af1cionados",
+		"import": false
+		},
+		{
+		"name": "Abogado del Lincoln",
 		"image": "https://pics.filmaffinity.com/the_lincoln_lawyer-712454950-large.jpg",
 		"url": "https://series-af1cionados.vercel.app/serie%20ABOGADO%20LINCOLN.w3u",
-		"import": false},
-
-
-		{"name": "Absentia",
+		"info": "bY Af1cionados",
+		"import": false
+		},
+		{
+		"name": "Absentia",
 		"image": "https://pics.filmaffinity.com/absentia-847229464-large.jpg",
 		"url": "https://series-af1cionados.vercel.app/serie%20ABSENTIA.w3u",
-		"import": false},
-
-
-		{"name": "Accidente",
+		"info": "bY Af1cionados",
+		"import": false
+		},
+		{
+		"name": "Accidente",
 		"image": "https://i.postimg.cc/jS75FbsG/Accidente.png",
 		"url": "https://af1c1onados.vercel.app/Series.Accidente.w3u",
-		"import": false},
-
-
-		{"name": "AD Biblia continua",
+		"info": "bY. yIsus",
+		"import": false
+		},
+		{
+		"name": "AD Biblia continua",
 		"image": "https://pics.filmaffinity.com/a_d_the_bible_continues-936487683-large.jpg",
 		"url": "https://series-af1cionados.vercel.app/serie%20AD%20BIBLIA.w3u",
-		"import": false},
-
-
-		{"name": "Adolescencia",
+		"info": "bY Af1cionados",
+		"import": false
+		},
+		{
+		"name": "Adolescencia",
 		"image": "https://pics.filmaffinity.com/adolescence-497490057-large.jpg",
 		"url": "https://series-af1cionados.vercel.app/serie%20ADOLESCENCIA.w3u",
-		"import": false},
-
-
-		{"name": "Agatha quien si no",
+		"info": "bY Af1cionados",
+		"import": false
+		},
+		{
+		"name": "Agatha quien si no",
 		"image": "https://i.postimg.cc/P5qsqpTH/images.jpg",
 		"url": "https://series-af1cionados.vercel.app/serie%20AGATHA%20QUIEN%20SI%20NO.w3u",
-		"import": false},
-
-
-		{"name": "Agencia Lockwood",
+		"info": "bY Tintxi",
+		"import": false
+		},
+		{
+		"name": "Agencia Lockwood",
 		"image": "https://pics.filmaffinity.com/lockwood_co-903524341-large.jpg",
+		"info": "bY Af1cionados",
 		"url": "https://af1cionados.vercel.app/serie AGENCIA LOCKWOOD.w3u",
-		"import": false},
-
-
-		{"name": "The agency",
+		"import": false
+		},
+		{
+		"name": "Agency, The",
 		"image": "https://pics.filmaffinity.com/the_agency-317886476-large.jpg",
 		"url": "https://af1c1onados.vercel.app/Series.The.Agency.w3u",
 		"info": "bY. yIsus",
-		"import": false},
-
-
-		{"name": "La agente encubierta",
+		"import": false
+		},
+		{
+		"name": "Agente Encubierta, La",
 		"image": "https://pics.filmaffinity.com/legenden-553494452-large.jpg",
 		"url": "https://raw.githubusercontent.com/Bl4ckl4dy/La-agente-encubierta/refs/heads/main/La%20agente%20encubierta.w3u",
-		"import": false},
-
-
-		{"name": "Agente Nocturno",
+		"info": "bY Virgin Mary",
+		"import": false
+		},
+		{
+		"name": "Agente Nocturno",
 		"image": "https://pics.filmaffinity.com/the_night_agent-308367960-large.jpg",
 		"url": "https://series-af1cionados.vercel.app/serie%20AGENTE%20NOCTURNO.w3u",
+		"info": "bY Af1cionados",
 		"import": false
 		},
 		{
 		"name": "Aitana Metamorfosis",
 		"image": "https://pics.filmaffinity.com/aitana_metamorfosis-205622555-large.jpg",
 		"url": "https://af1c1onados.vercel.app/Series.Aitana.Metamorfosis.w3u",
+		"info": "bY yIsus",
 		"import": false
 		},
 		{
 		"name": "Alba",
 		"image": "https://es.web.img3.acsta.net/pictures/21/02/16/17/03/3819700.jpg",
 		"url": "https://af1c1onados.vercel.app/Series.Alba.w3u",
+		"info": "bY. yIsus",
 		"import": false
 		},
 		{
 		"name": "Alien: Planeta Tierra",
 		"image": "https://pics.filmaffinity.com/alien_earth-704746568-large.jpg",
 		"url": "https://raw.githubusercontent.com/af1Series1/Series/refs/heads/main/serie%20ALIEN%20PLANETA%20TIERRA.w3u",
+		"info": "bY Af1cionados",
 		"import": false
 		},
 		{
 		"name": "Alice in Borderland",
 		"image": "https://i.postimg.cc/rpkWNX85/s-l1200.png",
+		"info": "bY. yIsus",
 		"url": "https://af1c1onados.vercel.app/Series.Alice.in.Borderland.w3u",
 		"import": false
 		},
@@ -177,23 +205,27 @@
 		"name": "Alienista, El",
 		"image": "https://pics.filmaffinity.com/the_alienist-840831653-large.jpg",
 		"url": "https://series-af1cionados.vercel.app/serie%20ALIENISTA.w3u",
+		"info": "bY Af1cionados",
 		"import": false
 		},
 		{
 		"name": "Allo Allo",
 		"image": "https://i.postimg.cc/sXn7qftm/alloallo1.jpg",
 		"url": "https://raw.githubusercontent.com/af1Series1/Series/refs/heads/main/serie%20ALLO%20ALLO.w3u",
+		"info": "bY Af1cionados",
 		"import": false
 		},
 		{
 		"name": "Alma",
 		"image": "https://pics.filmaffinity.com/alma-927035872-large.jpg",
 		"url": "https://af1cionados.vercel.app/serie ALMA.w3u",
+		"info": "bY Af1cionados",
 		"import": false
 		},
 		{
 		"name": "Americans",
 		"image": "https://i.postimg.cc/SNvRxYx4/Americans-2013-Serie.jpg",
+		"info": "bY Af1cionados",
 		"url": "https://af1cionados.vercel.app/serie AMERICANS.w3u",
 		"import": false
 		},
@@ -201,6 +233,7 @@
 		"name": "American Crime Story",
 		"image": "https://pics.filmaffinity.com/american_crime_story_the_people_v_o_j_simpson-872602318-large.jpg",
 		"url": "https://af1cionados.vercel.app/serie AMERICAN CRIME.w3u",
+		"info": "bY Af1cionados",
 		"import": false
 		},
 		{
