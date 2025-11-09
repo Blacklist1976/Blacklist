@@ -2,7 +2,7 @@
 "author": "Black",
 "image": "https://www.series.pt/images/series_design_logo_black.png",
 "url": "https://raw.githubusercontent.com/Blacklist1976/Blacklist/refs/heads/main/Series.w3u",
-"stations": 
+"groups": 
 	[
 
 		{
@@ -4636,4 +4636,3 @@
 
 	]
 }
-
