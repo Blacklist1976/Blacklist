@@ -1,0 +1,32 @@
+{"name": "Blacklist",
+"author": "Black",
+"image": "https://i.postimg.cc/rwRvTnHY/Rinnegan.png",
+"url": "",
+"groups":
+
+    [
+        
+        {"name": "Cine",
+        "image": "https://i.ibb.co/LfkSp9d/1852.jpg",
+        "url": "https://raw.githubusercontent.com/Blacklist1976/Blacklist/refs/heads/main/Cine.w3u",
+        "import": false},
+
+
+        { "name": "Series",
+        "image": "https://www.series.pt/images/series_design_logo_black.png",
+        "url": "https://raw.githubusercontent.com/Blacklist1976/Blacklist/refs/heads/main/Series.w3u",
+        "import": false},
+
+
+        { "name": "Infantil y familiar",
+        "image": "https://images3.alphacoders.com/595/595865.jpg",
+        "url": "https://raw.githubusercontent.com/Bl4ckl4dy/CiNe-inFanTiL-Espa-ol/refs/heads/main/CiNe%20inFanTiL%20Espa%C3%B1ol.w3u",
+        "import": false},
+
+
+        {"name": "Deportes",
+        "image": "https://i.postimg.cc/k45KjbMs/AF1-w-Eb.png",
+        "url": "https://af1c1onados.vercel.app/11.Sport.WeB.w3u",
+        "import": false}
+    ]
+}
