@@ -3537,21 +3537,21 @@
 		"name": "Remington Steele",
 		"image": "https://pics.filmaffinity.com/remington_steele-869064311-large.jpg",
 		"url": "https://series-af1cionados.vercel.app/serie%20REMINGTON%20STEELE.w3u",
-		"info": "bY Af1cionados",
+		"info": "",
 		"import": false
 		},
 		{
-		"name": "Respìra",
+		"name": "Respira",
 		"image": "https://pics.filmaffinity.com/respira-165509751-large.jpg",
-		"url": "https://raw.githubusercontent.com/Bl4ckl4dy/Respira/refs/heads/main/Respira.w3u",
-		"info": "bY Virgin Mary",
+		"url": "https://raw.githubusercontent.com/Blacklist1976/Blacklist/refs/heads/main/Respira",
+		"info": "B",
 		"import": false
 		},
 		{
 		"name": "Resident Alien",
 		"image": "https://images.justwatch.com/poster/311317716/s718/temporada-3.jpg",
 		"url": "https://af1c1onados.vercel.app/Series.Resident.Alien.w3u",
-		"info": "bY yIsus",
+		"info": "",
 		"import": false
 		},
 		{
@@ -4636,5 +4636,6 @@
 
 	]
 }
+
 
 
