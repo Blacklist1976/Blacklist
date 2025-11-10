@@ -9,82 +9,83 @@
 		"name": "2 chicas sin blanca",
 		"image": "https://pics.filmaffinity.com/2_broke_girls-673883061-large.jpg",
 		"url": "https://raw.githubusercontent.com/af1Series1/Series/refs/heads/main/serie%20DOS%20CHICAS%20SIN%20BLANCA.w3u",
+        "info": "",
 		"import": false
 		},
 		{
 		"name": "2 Hombres y medio",
 		"image": "https://pics.filmaffinity.com/two_and_a_half_men-390220233-large.jpg",
 		"url": "https://series-af1cionados.vercel.app/serie%202%20HOMBRES%20Y%20MEDIO.w3u",
-		"info": "bY Af1cionados",
+		"info": "",
 		"import": false
 		},
 		{
 		"name": "2 Tumbas",
 		"image": "https://pics.filmaffinity.com/dos_tumbas-792128016-large.jpg",
 		"url": "https://raw.githubusercontent.com/af1Series1/Series/refs/heads/main/serie%202%20TUMBAS.w3u",
-		"info": "bY Af1cionados",
+		"info": "",
 		"import": false
 		},
 		{
 		"name": "8 Show",
 		"image": "https://pics.filmaffinity.com/the_8_show-257378497-large.jpg",
 		"url": "https://series-af1cionados.vercel.app/serie%208%20SHOW.w3u",
-		"info": "bY Af1cionados",
+		"info": "",
 		"import": false
 		},
 		{
 		"name": "10 Libras y Un Sueño",
 		"image": "https://pics.filmaffinity.com/ten_pound_poms-723106626-large.jpg",
 		"url": "https://raw.githubusercontent.com/af1Series1/Series/refs/heads/main/serie%2010%20LIBRAS%20SUE%C3%91O.w3u",
-		"info": "bY Af1cionados",
+		"info": "",
 		"import": false
 		},
 		{
 		"name": "100 años de soledad",
 		"image": "https://pics.filmaffinity.com/cien_anos_de_soledad-606630216-large.jpg",
 		"url": "https://series-af1cionados.vercel.app/serie%20100%20AÑOS%20SOLEDAD.w3u",
-		"info": "bY Af1cionados",
+		"info": "",
 		"import": false
 		},
 		{
 		"name": "Los 100",
 		"image": "https://pics.filmaffinity.com/the_hundred-674895049-large.jpg",
 		"url": "https://series-af1cionados.vercel.app/serie%20100%20LOS.w3u",
-		"info": "bY Af1cionados",
+		"info": "",
 		"import": false
 		},
 		{
 		"name": "1000 Golpes",
 		"image": "https://pics.filmaffinity.com/a_thousand_blows-470835074-large.jpg",
 		"url": "https://series-af1cionados.vercel.app/serie%201000%20GOLPES.w3u",
-		"info": "bY Af1cionados",
+		"info": "",
 		"import": false
 		},
 		{
 		"name": "1992",
 		"image": "https://pics.filmaffinity.com/1992-689216468-large.jpg",
 		"url": "https://af1c1onados.vercel.app/Series.1992.w3u",
-		"info": "bY. yIsus",
+		"info": "",
 		"import": false
 		},		
 		{
 		"name": "1899",
 		"image": "https://pics.filmaffinity.com/1899-620331296-large.jpg",
 		"url": "https://af1cionados.vercel.app/serie 1899.w3u",
-		"info": "bY Af1cionados",
+		"info": "",
 		"import": false
 		},
 		{
 		"name": "30 Monedas",
 		"image": "https://pics.filmaffinity.com/30_monedas_t2-490944362-large.jpg",
 		"url": "https://af1cionados.vercel.app/serie%2030%20MONEDAS.w3u",
-		"info": "bY Af1cionados",
+		"info": "",
 		"import": false
 		},
 		{
 		"name": "A Gentleman in Moscow",
 		"image": "https://pics.filmaffinity.com/A_Gentleman_in_Moscow_Un_caballero_en_Moscau_Miniserie_de_TV-797814871-large.jpg",
-		"info": "bY. yIsus",
+		"info": "",
 		"url": "https://af1c1onados.vercel.app/Series.Gentleman.in.Moscow.w3u",
 		"import": false
 		},
@@ -92,7 +93,7 @@
 		"name": "A qué estas esperando",
 		"image": "https://pics.filmaffinity.com/a_que_estas_esperando-325817681-large.jpg",
 		"url": "https://series-af1cionados.vercel.app/serie%20A%20QUE%20ESTAS%20ESPERANDO.w3u",
-		"info": "bY Af1cionados",
+		"info": "",
 		"import": false
 		},
 		{
@@ -4635,4 +4636,5 @@
 
 	]
 }
+
 
