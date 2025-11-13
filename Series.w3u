@@ -2406,6 +2406,12 @@
       "import": false
     },
     {
+      "name": "Mrs Playmen",
+      "image": "https://pics.filmaffinity.com/mrs_playmen-533894285-large.jpg",
+      "url": "https://raw.githubusercontent.com/Blacklist1976/Blacklist/refs/heads/main/Mrs%20Playmen",
+      "import": false
+    },
+    {
       "name": "Muertos SL",
       "image": "https://pics.filmaffinity.com/muertos_s_l-497350368-large.jpg",
       "url": "https://af1cionados.vercel.app/serie MUERTOS SL.w3u",
@@ -3956,6 +3962,7 @@
     }
   ]
 }
+
 
 
 
