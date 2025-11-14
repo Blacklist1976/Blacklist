@@ -78,7 +78,7 @@
         "import": false
 	},
         {
-        "name": "AVENTURAS DE MAURICE, LAS",
+        "name": "LAS AVENTURAS DE MAURICE",
         "image": "https://pics.filmaffinity.com/the_amazing_maurice-509934440-large.jpg",
         "url": "https://filemoon.to/d/34niy18gz5r0/Las_aventuras_de_Maurice",
         "info": "[2022]",
@@ -189,7 +189,7 @@
         "import": false
 	},
 	{
-	"name": "CABALLEROS DEL ZODIACO, LOS",
+	"name": "LOS CABALLEROS DEL ZODIACO",
 	"info": "2023",
 	"url": "https://filemoon.to/d/160b6pxu5873/Los_Caballeros_del_Zodiaco",
 	"image": "https://i.postimg.cc/yxQQ5Yhv/Caballero-del-Zodiaco-20223-Pelicula-infantil.jpg",
@@ -222,7 +222,7 @@
 	"import": false
 	},
 	{
-	"name": "CASCANUECES, EL",
+	"name": "EL CASCANUECES",
 	"image": "https://pics.filmaffinity.com/the_nutcracker_in_3d-822708750-large.jpg", 
 	"url": "https://filemoon.to/d/kcuyj25dn5ox/El_Cascanueces__2010__Pelicula_infantil_espa_ol.mkv",
 	"info": "2010",
@@ -243,20 +243,30 @@
 	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	},
+{"name": "LA CASA DE MUÑECAS DE GABBY",
+"image": "https://hdfullcdn.cc/tthumb/130x190/movie_97459c2d46ceb00e971ac6c0d08ddfac.jpg",
+"url": "https://filemoon.to/d/25xtfsxqndkb/La_casa_de_mu_ecas_de_Gabby_La_pel_cula",
+"info": "[2025][Comedia, Familiar]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false},
       	{
         "name": "CHIP Y CHOP, LOS GUARDIANES RESCATADORES",
         "info":"2022",
         "image": "https://i.postimg.cc/c4653Wzf/Chip-y-Chop-los-guardianes-rescatadores-2022-pelicula-infantil.jpg",
-        "url":"https://upstream.to/fnbj3d83na3d",
+        "url":"https://filemoon.to/d/tt6mddtyom7i/CHIP_Y_CHOP__LOS_GUARDIANES_RESCATADORES.mp4",
         "userAgent":"PlusMediaPlayer/0.0.9",
         "isHost":"true",
         "online":"true",
         "import": false
         },
 		{
-       	"name": "CITA DE CARL, LA",
+       	"name": "LA CITA DE CARL",
         "image": "https://pics.filmaffinity.com/carl_s_date-774225557-large.jpg",
-        "url": "https://upstream.to/1i06ug36loob",
+        "url": "https://filemoon.to/d/d2z2fdhvx89d/La_cita_de_Carl.mp4",
        	"info": "2023",
        	"embed": "",
        	"isHost": "true",
@@ -268,7 +278,7 @@
         "name": "COCO",
         "info":"2018",
         "image": "https://i.postimg.cc/MHC7T24X/Coco-2017-Pelicula-infantil.jpg",
-        "url":"https://upstream.to/95h5vdr6hseo",
+        "url":"https://filemoon.to/d/x1vcosfc63al/Coco.mp4",
         "userAgent":"PlusMediaPlayer/0.0.9",
         "isHost":"true",
         "online":"true",
@@ -287,9 +297,9 @@
         "import": false
         },
 	{
-       	"name": "CONEJO DE TERCIOPELO, EL",
+       	"name": "EL CONEJO DE TERCIOPELO",
         "image": "https://pics.filmaffinity.com/the_velveteen_rabbit-168581418-large.jpg",
-        "url": "https://upstream.to/zpkwko0k3125",
+        "url": "https://filemoon.to/d/9s6g0u0c4plf/El_conejo_de_terciopelo.mp4",
        	"info": "2023",
        	"embed": "",
        	"isHost": "true",
@@ -297,19 +307,8 @@
 	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	},
-	{
-       	"name": "COPPELIA",
-        "image": "https://pics.filmaffinity.com/coppelia-612414923-large.jpg",
-        "url": "https://upstream.to/59mkjvj5euot",
-       	"info": "2022",
-       	"embed": "",
-       	"isHost": "true",
-       	"online": "true",
-	"userAgent":"PlusMediaPlayer/0.0.9",
-       	"import": false
-       	},
 {
-"name": "CRETINOS, LOS",
+"name": "LOS CRETINOS",
 "image": "https://pics.filmaffinity.com/the_twits-161255490-large.jpg",
 "url": "https://filemoon.to/d/5ezb5khnjoue/Los_cretinos",
 "info": "[2025][Animación Comedia Familia Fantasía]",
@@ -320,41 +319,57 @@
 "online": "true",
 "import": false
 },
-   	
-
-	{
+	    {
         "name": "DEL REVÉS (iNSIDE OUT)",
         "image": "https://i.postimg.cc/QMYZVC7X/Del-Reves-2015-Pelicula-infantil.jpg",
-       	"url": "https://upstream.to/kodq926pb4pi",
+       	"url": "https://filemoon.to/d/gcgu88zljq9p/DEL_REV_S__INSIDE_OUT_.mp4",
        	"info":"2015",
        	"userAgent":"PlusMediaPlayer/0.0.9",
        	"isHost":"true",
        	"online":"true",
        	"import": false
        	},
-	{
+	    {
         "name": "DEL REVÉS 2 (iNSIDE OUT 2)",
         "image": "https://pics.filmaffinity.com/inside_out_2-365634749-large.jpg",
-       	"url": "https://filemoon.to/d/a8pfa7oxizeb/Del_rev_s_2__2024_.mp4",
+       	"url": "https://filemoon.to/d/cjge5nk4jzud/Del_rev_s_2__IntensaMente_2_.mp4",
        	"info":"2024",
        	"userAgent":"PlusMediaPlayer/0.0.9",
        	"isHost":"true",
        	"online":"true",
        	"import": false
        	},
-	{
-        "name": "DIARIO DE GREG, EL",
+	    {
+        "name": "EL DIARIO DE GREG",
         "info":"2021",
         "image": "https://i.postimg.cc/1z76mzQt/El-diario-de-Greg-2021-Pelicula-infantil.jpg",
-        "url":"https://upstream.to/uc1rdnziuwn0",
+        "url":"https://filemoon.to/d/avj42bloyrnv/El_Diario_de_Greg.mp4",
 	"userAgent":"PlusMediaPlayer/0.0.9",
         "isHost":"true",
         "online":"true" 
 		},
-	{
-       	"name": "DIARIO DE GREG EN NAVIDAD, EL. ATRAPADOS EN LA NIEVE",
+        {
+        "name": "EL DIARIO DE GREG 2",
+        "info":"2011",
+        "image": "https://hdfullcdn.cc/tthumb/130x190/movie_42154de83cf14ebabaeec027cb87000b.jpg",
+        "url":"https://filemoon.to/d/a4w2svrfjepj/El_diario_de_Greg_2_La_ley_de_Rodrick.mp4",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+        "isHost":"true",
+        "online":"true" 
+		},
+        {
+        "name": "EL DIARIO DE GREG 3",
+        "info":"2012",
+        "image": "https://hdfullcdn.cc/tthumb/130x190/movie_24f8d140236667bab64dd1fa8e9becb7.jpg",
+        "url":"https://filemoon.to/d/cusfqc7wlwyl/Diario_de_Greg_3_D_as_de_perros.mp4",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+        "isHost":"true",
+        "online":"true" 
+		},
+	    {
+       	"name": "EL DIARIO DE GREG EN NAVIDAD. ATRAPADOS EN LA NIEVE",
         "image": "https://pics.filmaffinity.com/diary_of_a_wimpy_kid_christmas_cabin_fever-973008418-large.jpg",
-        "url": "https://upstream.to/yabtk4f76k9x",
+        "url": "https://filemoon.to/d/zrmhdswk7iq1/Diario_de_Greg_4_Carretera_y_manta.mp4",
        	"info": "2023",
        	"embed": "",
        	"isHost": "true",
