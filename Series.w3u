@@ -1176,6 +1176,12 @@
       "import": false
     },
     {
+      "name": "El cuco de cristal",
+      "image": "https://pics.filmaffinity.com/el_cuco_de_cristal-500015995-large.jpg",
+      "url": "https://raw.githubusercontent.com/Blacklist1976/Blacklist/refs/heads/main/El%20cuco%20de%20cristal",
+      "import": false
+    },
+    {
       "name": "Earth Abides",
       "image": "https://pics.filmaffinity.com/earth_abides-359132977-large.jpg",
       "url": "https://series-af1cionados.vercel.app/serie%20EARTH%20ABIDES.w3u",
@@ -3962,6 +3968,7 @@
     }
   ]
 }
+
 
 
 
