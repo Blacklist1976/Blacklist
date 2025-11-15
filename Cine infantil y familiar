@@ -578,10 +578,10 @@
       "import": false
     },
 	{
-        "name": "FLASH, THE",
+        "name": "FLASH",
 	"info": "2023",
 	"image": "https://i.postimg.cc/4dbSmz7y/the-flash.jpg", 
-	"url": "https://upstream.to/32nmremehty3",
+	"url": "https://filemoon.to/d/b0v6zxluk536/Flash",
        	"embed":"",
        	"isHost":"true",
        	"online":"true",
@@ -657,7 +657,7 @@
 	"name": "GATO CON BOTAS, EL ULTIMO DESEO",
 	"info": "2022",
 	"image": "https://i.postimg.cc/XJ6cVhYn/Gato-con-botas-el-ultimo-deseo-2022-Pelicula-familiar.jpg", 
-	"url": "https://upstream.to/x24u678ibkdo",
+	"url": "https://filemoon.to/d/8ctv6i0zi5c4/El_gato_con_botas_El__ltimo_deseo",
 	"userAgent":"PlusMediaPlayer/0.0.9",
 	"embed":"",
 	"isHost":"true",
@@ -666,7 +666,7 @@
 	{ 
 	"name": "GATO TABBY Y OTRAS HISTORIAS FELINAS",
 	"image": "https://pics.filmaffinity.com/tabby_mctat-249465626-large.jpg", 
-	"url": "https://listeamed.net/v/MAlwEMW3L1k5J39",
+	"url": "https://filemoon.to/d/fh2wbs1arqw9/El_gato_Tabby_y_otras_historias_felinas",
 	"info": "2024",
 	"userAgent":"PlusMediaPlayer/0.0.9",
 	"embed":"",
@@ -676,7 +676,7 @@
 	{
        	"name": "GATOS NO BAILAN, LOS",
         "image": "https://pics.filmaffinity.com/cats_don_t_dance-424188979-large.jpg",
-        "url": "https://upstream.to/bbw9rbskdo2x",
+        "url": "https://filemoon.to/d/k0ehnzm8vxgh/Los_gatos_no_bailan",
        	"info": "1997",
        	"embed": "",
        	"isHost": "true",
@@ -684,19 +684,10 @@
 	"userAgent":"PlusMediaPlayer/0.0.9",
        	"import": false
        	},
-	{ 
-	"name": "GRAN AVENTURA SUIZA, LA",
-	"info": "2022",
-	"image": "https://i.postimg.cc/59znDRSv/Gran-aventura-suiza-La-2022-Pelicula-familiar.jpg", 
-	"url": "https://upstream.to/r9yo2czwkfa0", 
-	"embed":"",
-	"isHost":"true",
-	"online":"true"     
-	},
 	      {
 	      "name": "Gru 1, MI VILLANO FAVORITO",
         "image": "https://pics.filmaffinity.com/despicable_me-886797392-large.jpg",
-        "url": "https://filemoon.to/d/wzaeykz0izpx/Gru_villano_favorito__2010_Pelicula_.mp4",
+        "url": "https://filemoon.to/d/9oi8vy6286sf/Gru_Mi_villano_favorito",
        	"info": "[Español 2010]",
        	"embed": "",
        	"isHost": "true",
@@ -707,7 +698,7 @@
 	      {
 	      "name": "Gru 2, MI VILLANO FAVORITO",
         "image": "https://pics.filmaffinity.com/despicable_me_2-759105201-large.jpg",
-        "url": "https://filemoon.to/d/ccljsei71qtp/Gru_villano_favorito__2013_Pelicula_.mp4",
+        "url": "https://filemoon.to/d/wsgq1t0hcfoj/Gru_2_Mi_villano_favorito",
        	"info": "[Español 2013]",
        	"embed": "",
        	"isHost": "true",
@@ -718,7 +709,7 @@
 	      {
 	      "name": "Gru 3, MI VILLANO FAVORITO",
         "image": "https://pics.filmaffinity.com/despicable_me_3-647183530-large.jpg",
-        "url": "https://filemoon.to/d/83h57az72xk2/Gru_villano_favorito__2017_Pelicula_.mp4",
+        "url": "https://filemoon.to/d/uhn2040vk3o1/Gru_3_Mi_villano_favorito",
        	"info": "[Español 2017]",
        	"embed": "",
        	"isHost": "true",
@@ -729,7 +720,18 @@
 	      {
 	      "name": "Gru 4, MI VILLANO FAVORITO",
         "image": "https://pics.filmaffinity.com/despicable_me_4-802312771-large.jpg",
-        "url": "https://filemoon.to/d/81aytid5b1l3",
+        "url": "https://filemoon.to/d/z6ebs1of1qe9/Mi_villano_favorito_4",
+       	"info": "[Español 2024]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+        "userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+        {
+	      "name": "Minions: El origen de Gru",
+        "image": "https://hdfullcdn.cc/tthumb/172x256/movie_e9b38fa03a4be41dfdc2c5db6d284087.jpg",
+        "url": "https://filemoon.to/d/zcx2nodla8tl/Minions_El_origen_de_Gru",
        	"info": "[Español 2024]",
        	"embed": "",
        	"isHost": "true",
