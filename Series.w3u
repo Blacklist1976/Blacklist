@@ -1,10 +1,10 @@
 {
-  "New item": {
     "name": "Series",
     "author": "Black",
     "image": "https://www.series.pt/images/series_design_logo_black.png",
     "url": "https://raw.githubusercontent.com/Blacklist1976/Blacklist/refs/heads/main/Series.w3u",
     "groups": [
+
       {
         "name": "La duquesa de Merteuil",
         "image": "https://hdfullcdn.cc/tthumb/172x265/show_9226ffe1a4e7fb62f2035846304447aa.jpg",
@@ -3975,3 +3975,4 @@
     ]
   }
 }
+
