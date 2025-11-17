@@ -20,6 +20,50 @@
 "online": "true",
 "import": false},
 
+{"name": "Insidious",
+"image": "https://www.elseptimoarte.net/carteles/341/insidious_9395.jpg",
+"url": "https://vidmoly.me/w/yxj8qe3h1nso",
+"info": "[2011][Terror]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false},
+               
+{"name": "Insidious: Capítulo 2",
+"image": "https://www.elseptimoarte.net/carteles/341/insidious_2_23444.jpg",
+"url": "https://vidmoly.me/w/dgtp7cempf44",
+"info": "[2013][Terror]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false},
+                
+{"name": "Insidious: Capítulo 3",
+"image": "https://www.elseptimoarte.net/carteles/341/insidious_capitulo_3_37699.jpg",
+"url": "https://vidmoly.me/w/5bfqwpea73aj",
+"info": "[2015][Terror]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false},
+              
+{"name": "Insidious: La última llave",
+"image": "https://www.elseptimoarte.net/carteles/341/insidious._la_ultima_llave_68477.jpg",
+"url" : "https://zpjid.com/d/03qbpjcmjjay",
+"info": "[2018][Terror]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false},
+
 {"name": "Materialistas",
 "image": "https://pics.filmaffinity.com/materialists-985777137-large.jpg",
 "embed": "true",
@@ -2223,6 +2267,7 @@
 "isHost": "true",
 "online": "true",
 "import": false}]}]}
+
 
 
 
