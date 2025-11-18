@@ -24,6 +24,12 @@
         "import": false
       },
       {
+        "name": "Cómo conocí a vuestra madre",
+        "image": "https://pics.filmaffinity.com/how_i_met_your_mother-869966709-large.jpg",
+        "url": "https://raw.githubusercontent.com/Blacklist1976/Blacklist/refs/heads/main/C%C3%B3mo%20conoc%C3%AD%20a%20vuestra%20madre.w3u",
+        "import": false
+      },
+      {
         "name": "2 Tumbas",
         "image": "https://pics.filmaffinity.com/dos_tumbas-792128016-large.jpg",
         "url": "https://raw.githubusercontent.com/af1Series1/Series/refs/heads/main/serie%202%20TUMBAS.w3u",
@@ -3974,6 +3980,7 @@
       }
     ]
   }
+
 
 
 
