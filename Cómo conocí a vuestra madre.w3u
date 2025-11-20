@@ -453,6 +453,7 @@
  				"image": "https://media.themoviedb.org/t/p/w130_and_h195_bestv2/j4yEA2rJdkdYqxIodwIIDWaZIOJ.jpg",
  				"url":"https://filemoon.to/d/vkju6todslsr/Como_Conoci_a_Vuestra_Madre_3x03",
  				"isHost":"true",
+                 "userAgent" : "PlusMediaPlayer/0.0.9",
  				"online":"true"
 				},
  				{
@@ -642,6 +643,7 @@
  				"image": "https://media.themoviedb.org/t/p/w130_and_h195_bestv2/huXIdFhi7m0N0nxtgt3DJ9MBDA.jpg",
  				"url":"https://filemoon.to/d/z6n7f03tt3ei/Como_Conoci_a_Vuestra_Madre_4x03",
  				"isHost":"true",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
  				"online":"true"
 				},
  				{
@@ -1094,6 +1096,7 @@
  				"image":"https://pics.filmaffinity.com/how_i_met_your_mother-869966709-large.jpg",
  				"url":"https://filemoon.to/d/yz9j5i7jjcft/Como_Conoci_A_Vuestra_Madre_6x03_Incompleta_Webdl_M_720pDUAL_Spa",
  				"isHost":"true",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
  				"online":"true"
 				},
  				{
@@ -1319,6 +1322,7 @@
  				"image":"https://pics.filmaffinity.com/how_i_met_your_mother-869966709-large.jpg",
  				"url":"https://filemoon.to/d/t0447rijs7go/Como_Conoci_A_Vuestra_Madre_7x03_La_Corbata_De_Patitos_Webdl_M_720pDUAL",
  				"isHost":"true",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
  				"online":"true"
 				},
  				{
@@ -1343,7 +1347,8 @@
  				"name": "Episodio 06",
  				"info":"",
  				"image":"https://pics.filmaffinity.com/how_i_met_your_mother-869966709-large.jpg",
- 				"url":"https://filemoon.to/d/1tn580gm46k5/Como_Conoci_A_Vuestra_Madre_7x06_El_Misterio_Contra_La_Historia”", 				"isHost":"true",
+ 				"url":"https://filemoon.to/d/1tn580gm46k5/Como_Conoci_A_Vuestra_Madre_7x06_El_Misterio_Contra_La_Historia”", 	
+                "isHost":"true",
                 "userAgent" : "PlusMediaPlayer/0.0.9",
  				"online":"true"
 				},
@@ -1544,6 +1549,7 @@
  				"image":"https://pics.filmaffinity.com/how_i_met_your_mother-869966709-large.jpg",
  				"url":"https://filemoon.to/d/d3voeqohbait/C_mo_conoc__a_vuestra_madre_8x03",
  				"isHost":"true",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
  				"online":"true"
 				},
  				{
@@ -1770,6 +1776,7 @@
  				"image":"https://pics.filmaffinity.com/how_i_met_your_mother-869966709-large.jpg",
  				"url":"https://filemoon.to/d/ppyt7b29xmrm/C_mo_conoc__a_vuestra_madre_9x03",
  				"isHost":"true",
+                "userAgent" : "PlusMediaPlayer/0.0.9",
  				"online":"true"
 				},
  				{
