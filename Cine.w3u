@@ -1,4 +1,3 @@
-[
 {"name": "Cine",
 "image":"https://i.ibb.co/LfkSp9d/1852.jpg",
 "url": "https://raw.githubusercontent.com/Blacklist1976/Blacklist/refs/heads/main/Cine.w3u",
@@ -3281,6 +3280,7 @@
 "isHost",":", "true",
 "online",":", "true",
 "import",": false"}]}]}
+
 
 
 
