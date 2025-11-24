@@ -12,6 +12,12 @@
         "import": false
       },
       {
+        "name": "BILLY EL NIÑO",
+        "image": "https://media.themoviedb.org/t/p/w130_and_h195_face/rjhCeBM6pwcXJiLDHi40LTJGltq.jpg",
+        "url": "https://raw.githubusercontent.com/Blacklist1976/Blacklist/refs/heads/main/Billy%20el%20ni%C3%B1o.w3u",
+        "import": false
+      },
+      {
         "name": "2 chicas sin blanca",
         "image": "https://pics.filmaffinity.com/2_broke_girls-673883061-large.jpg",
         "url": "https://raw.githubusercontent.com/af1Series1/Series/refs/heads/main/serie%20DOS%20CHICAS%20SIN%20BLANCA.w3u",
@@ -3980,6 +3986,7 @@
       }
     ]
   }
+
 
 
 
