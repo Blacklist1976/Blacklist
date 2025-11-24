@@ -111,7 +111,7 @@
 
 {
 "name": "TEMPORADA 2",
-"image": "",
+"image": "https://media.themoviedb.org/t/p/w130_and_h195_face/921I5nOF9qt7fF5bFU0Ls13Buix.jpg",
 "stations": 
 [
 {
@@ -215,7 +215,7 @@
 
 {
 "name": "TEMPORADA 3",
-"image": "",
+"image": "https://media.themoviedb.org/t/p/w130_and_h195_face/4NKou9PPPDzcrNJ7BAQuJmVHXOK.jpg",
 "stations": 
 [
 {
@@ -320,4 +320,5 @@
 
 ]
 }
+
 
