@@ -12,6 +12,12 @@
         "import": false
       },
       {
+        "name": "ANATOMÍA DE UN INSTANTE",
+        "image": "https://pics.filmaffinity.com/anatomia_de_un_instante-122205180-large.jpg",
+        "url": "https://raw.githubusercontent.com/Blacklist1976/Blacklist/refs/heads/main/Anatom%C3%ADa%20de%20un%20instante.w3u",
+        "import": false
+      },
+      {
         "name": "BILLY EL NIÑO",
         "image": "https://media.themoviedb.org/t/p/w130_and_h195_face/rjhCeBM6pwcXJiLDHi40LTJGltq.jpg",
         "url": "https://raw.githubusercontent.com/Blacklist1976/Blacklist/refs/heads/main/Billy%20el%20ni%C3%B1o.w3u",
@@ -3986,6 +3992,7 @@
       }
     ]
   }
+
 
 
 
