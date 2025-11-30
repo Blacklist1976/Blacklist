@@ -967,31 +967,74 @@
         "online":"true"
 	},
 	{
-        "name": "KLAUS",
+        "name": "LEYENDA DE KLAUS, LA",
         "image": "https://pics.filmaffinity.com/klaus-456555401-large.jpg",
-        "url":"https://upstream.to/61jsnpqj8840",
+        "url":"https://filemoon.to/d/v0y9na4eguyn/La_leyenda_de_Klaus.mp4",
         "info":"2019",
         "userAgent": "PlusMediaPlayer/0.0.9",
         "embed":"",
         "isHost":"true",
         "online":"true"
 	},
-       {
+ {
+        "name": "KUNG FU PANDA 1",
+        "info":"",
+        "image": "https://hdfullcdn.cc/tthumb/172x256/movie_8e19c7a893dfe7462fd710fd99e36150.jpg",
+        "url":"https://filemoon.to/d/7n3tohpa8wh3/Kung_Fu_Panda.mp4",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+         },
+         {
+        "name": "KUNG FU PANDA 2",
+        "info":"",
+        "image": "https://hdfullcdn.cc/tthumb/130x190/movie_eaeba84dd0edcca8855e6ca39939f2f8.jpg",
+        "url":"https://filemoon.to/d/yaa56ut3vyih/Kung_Fu_Panda_2.mp4",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+         },
+         {
+        "name": "KUNG FU PANDA 3",
+        "info":"",
+        "image": "https://hdfullcdn.cc/tthumb/130x190/movie_9c59b176d468d4d1cdf38781d00f0068.jpg",
+        "url":"https://filemoon.to/d/30ha6wsxrg64/Kung_Fu_Panda_3.mp4",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+         },
+{
         "name": "KUNG FU PANDA 4",
         "info": "[2024][Español]",
         "image": "https://www.universalpictures.com.mx/tl_files/content/movies/kung_fu_panda_4/posters/01.jpg",
-        "url": "https://filemoon.to/d/gupjp58i018m",
+        "url": "https://filemoon.to/d/sbum10ehdy5f/Kung_Fu_Panda_4.mp4",
         "isHost": "true",
         "online": "true",
         "userAgent": "PlusMediaPlayer/0.0.9"
         },
-
-
+ {
+        "name": "Kung Fu Panda: Los secretos del pergamino",
+        "info":"",
+        "image": "https://hdfullcdn.cc/tthumb/130x190/movie_239a6863e1064e37f415f7b530ed14c5.jpg",
+        "url":"https://filemoon.to/d/i7o4u8wtzqzg/Kung_Fu_Panda_Los_secretos_del_pergamino.mp4",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+         },
+  {
+        "name": "Kung Fu Panda: Los secretos de los cinco furiosos",
+        "info":"",
+        "image": "https://hdfullcdn.cc/tthumb/172x256/movie_97ae10f8d20a7ce895c2cbd41aaf7d59.jpg",
+        "url":"https://filemoon.to/d/bkhon2enkvgq/Kung_Fu_Panda_Los_secretos_de_los_cinco_furiosos.mp4",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+         },
 	{
         "name": "LEGO, LA PELICULA",
         "info":"2014",
         "image": "https://i.postimg.cc/QtBZV33d/Lego-La-pelicula-2014-Pelicula-infantil.jpg",
-        "url":"https://upstream.to/smvme6aq2kwy",
+        "url":"https://filemoon.to/d/6wi023y18iv7/La_LEGO_pel_cula.mp4",
         "embed":"",
         "isHost":"true",
         "online":"true"
@@ -1000,32 +1043,174 @@
         "name": "LEGO 2, LA PELICULA",
         "info":"2019",
         "image": "https://i.postimg.cc/VL2rNfPd/Lego-2-La-pelicula-2019-Pelicula-inftantil.jpg",
-        "url":"https://upstream.to/jmv2o8xdzra8",
+        "url":"https://filemoon.to/d/gvmx6ifg7l88/La_LEGO_pel_cula_2.mp4",
         "embed":"",
         "isHost":"true",
         "online":"true"
 	},
-	{
-        "name": "LEGO 3, LA PELICULA",
-        "info":"2023",
-        "image": "https://i.postimg.cc/52N41D66/Lego-3-La-pelicula-2023-Pelicula-infantil.jpg",
-        "url":"https://upstream.to/f4qrjuza405q",
+{
+        "name": "Lego Batman: La película - El regreso de los superhéroes de DC",
+        "info":"",
+        "image": "https://hdfullcdn.cc/tthumb/172x256/movie_a8beb5c39efcf3b36dd66fec3f16ae40.jpg",
+        "url":"https://filemoon.to/d/pkdfduha3pff/Lego_Batman_La_pel_cula_-_El_regreso_de_los_superh_roes_de_DC.mp4",
         "embed":"",
         "isHost":"true",
         "online":"true"
-		},
-		{
-       	"name": "LEO",
-        "image": "https://pics.filmaffinity.com/leo-530546739-large.jpg",
-        "url": "https://vidmoly.to/embed-348aco2saoqv.html",
-       	"info": "2023",
-       	"embed": "",
-       	"isHost": "true",
-       	"online": "true",
-		"userAgent":"PlusMediaPlayer/0.0.9",
-       	"import": false
-       	},
-        {
+         },
+         {
+        "name": "LEGO DC Comics Super Heroes: Justice League vs. Bizarro League",
+        "info":"",
+        "image": "https://hdfullcdn.cc/tthumb/172x256/movie_c2578ea96a3939bab6dbba7767e0fbc1.jpg",
+        "url":"https://filemoon.to/d/4ak6b5b8s0si/LEGO_DC_Comics_Super_Heroes_Justice_League_vs._Bizarro_League.mp4",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+         },
+         {
+        "name": "La liga de la justicia lego",
+        "info":"",
+        "image": "https://hdfullcdn.cc/tthumb/172x256/movie_3188e13538aba5604b63d41958b38e8a.jpg",
+        "url":"https://filemoon.to/d/abizdzsdmq68/la_liga_de_la_justicia_lego.mp4",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+         },
+         {
+        "name": "Lego Scooby-Doo!: Haunted Hollywood",
+        "info":"",
+        "image": "https://hdfullcdn.cc/tthumb/172x256/movie_ba90ce1f9c5e86f326d84f082f0c0246.jpg",
+        "url":"https://filemoon.to/d/z33qsvhw4ht5/Lego_Scooby-Doo!_Haunted_Hollywood.mp4",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+         },
+         {
+        "name": "LEGO DC Comics Super Heroes: Justice League: Gotham City Breakout",
+        "info":"",
+        "image": "https://hdfullcdn.cc/tthumb/172x256/movie_a489e1b9a16fc04d7eb4d8ca340cf035.jpg",
+        "url":"https://filemoon.to/d/b81ir3fagidh/LEGO_DC_Comics_Super_Heroes_Justice_League_Gotham_City_Breakout.mp4",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+         },
+         {
+        "name": "LEGO Jurassic World: The Indominus Escape",
+        "info":"",
+        "image": "https://hdfullcdn.cc/tthumb/172x256/movie_8fbec18b6efe32fb13c71513ce95d19e.jpg",
+        "url":"https://filemoon.to/d/i4iu2gwf8qkj/LEGO_Jurassic_World_The_Indominus_Escape.mp4",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+         },
+         {
+        "name": "LEGO Frozen Northern Lights",
+        "info":"",
+        "image": "https://hdfullcdn.cc/tthumb/172x256/movie_b4e734d9b64cf70e81c50238b0a532f4.jpg",
+        "url":"https://filemoon.to/d/t16twyxyk864/LEGO_Frozen_Northern_Lights.mp4",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+         },
+         {
+        "name": "Lego Batman: La película",
+        "info":"",
+        "image": "https://hdfullcdn.cc/tthumb/172x256/movie_045a433b3c28bf97cee69334595a96c7.jpg",
+        "url":"https://filemoon.to/d/v9tquaajq620/Lego_Batman_La_pel_cula.mp4",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+         },
+         {
+        "name": "Lego Scooby-Doo! Fiesta en la playa de Blowout",
+        "info":"",
+        "image": "https://hdfullcdn.cc/tthumb/172x256/movie_01de7b439848165db14679f3d334c89c.jpg",
+        "url":"https://filemoon.to/d/3lbn0ivlmd4r/Lego_Scooby-Doo!_Fiesta_en_la_playa_de_Blowout.mp4",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+         },
+         {
+        "name": "La LEGO Ninjago película",
+        "info":"",
+        "image": "https://hdfullcdn.cc/tthumb/172x256/movie_dcf71400d3c0051b474ea7f9e7a17723.jpg",
+        "url":"https://filemoon.to/d/tqwt89l0ls43/La_LEGO_Ninjago_pel_cula.mp4",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+         },
+         {
+        "name": "LEGO Marvel Super Heroes - Guardians of the Galaxy: The Thanos Threat",
+        "info":"",
+        "image": "https://hdfullcdn.cc/tthumb/172x256/movie_0efb51c142720ec69c187871fd2a9b7f.jpg",
+        "url":"https://filemoon.to/d/i41f4bjnwf4s/LEGO_Marvel_Super_Heroes_-_Guardians_of_the_Galaxy_The_Thanos_Threat.mp4",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+         },
+         {
+        "name": "Lego DC: ¡Shazam!: Magia y monstruos",
+        "info":"",
+        "image": "https://hdfullcdn.cc/tthumb/172x256/movie_9984e86c692f063b6726f49f9e29b92d.jpg",
+        "url":"https://filemoon.to/d/9i0202sbwsz8/Lego_DC__Shazam!_Magia_y_monstruos.mp4",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+         },
+         {
+        "name": "LEGO Scooby Doo: La hora del caballero tenebroso",
+        "info":"",
+        "image": "https://hdfullcdn.cc/tthumb/172x256/movie_0975bca227c3f9bd58466bf489182da7.jpg",
+        "url":"https://filemoon.to/d/sc3iyybp8ytr/LEGO_Scooby_Doo_La_hora_del_caballero_tenebroso.mp4",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+         },
+         {
+        "name": "The Lego Star Wars Holiday Special",
+        "info":"",
+        "image": "https://hdfullcdn.cc/tthumb/172x256/movie_c0e2388a27b1c85b81b97f94d5e94fec.jpg",
+        "url":"https://filemoon.to/d/44ctftadcxxz/The_Lego_Star_Wars_Holiday_Special.mp4",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+         },
+         {
+        "name": "LEGO Star Wars Cuentos escalofriantes",
+        "info":"",
+        "image": "https://hdfullcdn.cc/tthumb/172x256/movie_0a56802966ebff5daa3e35efce91a9ca.jpg",
+        "url":"https://filemoon.to/d/aj4c2bgzo4zj/LEGO_Star_Wars_Cuentos_escalofriantes.mp4",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+         },
+         {
+        "name": "LEGO Star Wars Summer Vacation",
+        "info":"",
+        "image": "https://hdfullcdn.cc/tthumb/172x256/movie_a2d7aa5f1c64d5d2f796fc7820c3523b.jpg",
+        "url":"https://filemoon.to/d/twgof4olpwwr/LEGO_Star_Wars_Summer_Vacation.mp4",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+         },
+         {
+        "name": "Lego Friends: The Next Chapter: New Beginnings",
+        "info":"",
+        "image": "https://hdfullcdn.cc/tthumb/172x256/movie_991c89895bb6ade5368f4bf9f8ff217b.jpg",
+        "url":"https://filemoon.to/d/agoj0i1p6wj3/Lego_Friends_The_Next_Chapter_New_Beginnings.mp4",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+         },
+         {
+        "name": "LEGO Disney Princess: Misión castillo",
+        "info":"",
+        "image": "https://hdfullcdn.cc/tthumb/172x256/movie_cac05225fcc981ce0453c2ca2f65d193.jpg",
+        "url":"https://filemoon.to/d/nsbqemm56b3m/LEGO_Disney_Princess_Misi_n_castillo.mp4",
+        "embed":"",
+        "isHost":"true",
+        "online":"true"
+         },
+         {
         "name": "LEGO DISNEY FROZEN: OPERACION FRAILECILLOS",
         "image": "https://pics.filmaffinity.com/lego_disney_frozen_operation_puffins-588828853-large.jpg",
         "url": "https://filemoon.to/d/h0rw4v302bgu/LEGO_Disney_Frozen_Operaci_n_Frailecillos",
@@ -1040,7 +1225,7 @@
 		{
        	"name": "LEGO MARVEL AVENGERS, CODE RED",
         "image": "https://pics.filmaffinity.com/lego_marvel_avengers_code_red-713992148-large.jpg",
-        "url": "https://upstream.to/r449xoq9s4eh",
+        "url": "https://filemoon.to/d/5z1k9advs5ol/LEGO_Marvel_Avengers_Code_Red.mp4",
        	"info": "2023",
        	"embed": "",
        	"isHost": "true",
