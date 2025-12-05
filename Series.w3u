@@ -12,13 +12,13 @@
         "import": false
       },
       {
-        "name": "ANATOMÍA DE UN INSTANTE",
+        "name": "Anatomía de un instante",
         "image": "https://pics.filmaffinity.com/anatomia_de_un_instante-122205180-large.jpg",
         "url": "https://raw.githubusercontent.com/Blacklist1976/Blacklist/refs/heads/main/Anatom%C3%ADa%20de%20un%20instante.w3u",
         "import": false
       },
       {
-        "name": "BILLY EL NIÑO",
+        "name": "Billy el niño",
         "image": "https://media.themoviedb.org/t/p/w130_and_h195_face/rjhCeBM6pwcXJiLDHi40LTJGltq.jpg",
         "url": "https://raw.githubusercontent.com/Blacklist1976/Blacklist/refs/heads/main/Billy%20el%20ni%C3%B1o.w3u",
         "import": false
@@ -1032,9 +1032,9 @@
         "import": false
       },
       {
-        "name": "La Cupula de Cristal",
+        "name": "La cúpula de cristal",
         "image": "https://pics.filmaffinity.com/glaskupan-702722490-large.jpg",
-        "url": "https://series-af1cionados.vercel.app/serie%20CUPULA%20CRISTAL.w3u",
+        "url": "https://raw.githubusercontent.com/Blacklist1976/Blacklist/refs/heads/main/La%20c%C3%BApula%20de%20cristal.w3u",
         "import": false
       },
       {
@@ -3992,6 +3992,7 @@
       }
     ]
   }
+
 
 
 
