@@ -42,6 +42,24 @@
        "import": false
       },
       {
+       "name": "Expediente Vallecas",
+       "image": "https://www.themoviedb.org/t/p/w600_and_h900_face/xcHt0bZzkOBo3ahsaMxid7rNeyo.jpg",
+       "url": "https://raw.githubusercontent.com/Blacklist1976/Blacklist/refs/heads/main/Expediente%20Vallecas",
+       "import": false
+      },
+      {
+       "name": "Gambito de dama",
+       "image": "https://pics.filmaffinity.com/the_queen_s_gambit-906552919-large.jpg",
+       "url": "https://raw.githubusercontent.com/Blacklist1976/Blacklist/refs/heads/main/Gambito%20de%20dama",
+       "import": false
+      },
+      {
+       "name": "La agente encubierta",
+       "image": "https://pics.filmaffinity.com/legenden-553494452-large.jpg",
+       "url": "https://raw.githubusercontent.com/Bl4ckl4dy/La-agente-encubierta/refs/heads/main/La%20agente%20encubierta.w3u",
+       "import": false
+      },
+      {
         "name": "Billy el niño",
         "image": "https://media.themoviedb.org/t/p/w130_and_h195_face/rjhCeBM6pwcXJiLDHi40LTJGltq.jpg",
         "url": "https://raw.githubusercontent.com/Blacklist1976/Blacklist/refs/heads/main/Billy%20el%20ni%C3%B1o.w3u",
@@ -4016,6 +4034,7 @@
       }
     ]
   }
+
 
 
 
