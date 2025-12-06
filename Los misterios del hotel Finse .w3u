@@ -1,7 +1,7 @@
 {
 "name": "Los misterios del Hotel Finse",
 "image": "https://www.themoviedb.org/t/p/w600_and_h900_face/7Xa2lBk9BlgAcv9JmetmN9eH4ps.jpg",
-"url": "",
+"url": "https://raw.githubusercontent.com/Blacklist1976/Blacklist/refs/heads/main/Los%20misterios%20del%20hotel%20Finse%20.w3u",
 "stations":[
 
 {
@@ -54,4 +54,5 @@
 }
 
 ]
+
 }
