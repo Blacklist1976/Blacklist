@@ -18,6 +18,12 @@
         "import": false
       },
       {
+        "name": "The last kingdom",
+        "image": "https://www.themoviedb.org/t/p/w600_and_h900_face/pnM3U7NMJeFNpzhpYP10zBdIuPM.jpg",
+        "url": "https://raw.githubusercontent.com/Blacklist1976/Blacklist/refs/heads/main/The%20last%20kingdom.w3u",
+        "import": false
+      },
+      {
         "name": "Billy el niño",
         "image": "https://media.themoviedb.org/t/p/w130_and_h195_face/rjhCeBM6pwcXJiLDHi40LTJGltq.jpg",
         "url": "https://raw.githubusercontent.com/Blacklist1976/Blacklist/refs/heads/main/Billy%20el%20ni%C3%B1o.w3u",
@@ -3992,6 +3998,7 @@
       }
     ]
   }
+
 
 
 
