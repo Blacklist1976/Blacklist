@@ -1,0 +1,57 @@
+{
+"name": "Los misterios del Hotel Finse",
+"image": "https://www.themoviedb.org/t/p/w600_and_h900_face/7Xa2lBk9BlgAcv9JmetmN9eH4ps.jpg",
+"url": "",
+"stations":[
+
+{
+"name": "CAPITULO 1",
+"image": "https://media.themoviedb.org/t/p/w94_and_h141_face/7Xa2lBk9BlgAcv9JmetmN9eH4ps.jpg",
+"url": "https://filemoon.to/d/zt92w12e5met/Los_misterios_del_Hotel_Finse_1x01",
+"info": "[Crimen 2025]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 2",
+"image": "https://media.themoviedb.org/t/p/w94_and_h141_face/7Xa2lBk9BlgAcv9JmetmN9eH4ps.jpg",
+"url": "https://filemoon.to/d/wpwczw9oxrv5/Los_misterios_del_Hotel_Finse_1x02",
+"info": "[Crimen 2025]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 3",
+"image": "https://media.themoviedb.org/t/p/w94_and_h141_face/7Xa2lBk9BlgAcv9JmetmN9eH4ps.jpg",
+"url": "https://filemoon.to/d/u465q8hgntct/Los_misterios_del_Hotel_Finse_1x03",
+"info": "[Crimen 2025]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+},
+{
+"name": "CAPITULO 4",
+"image": "https://media.themoviedb.org/t/p/w94_and_h141_face/7Xa2lBk9BlgAcv9JmetmN9eH4ps.jpg",
+"url": "https://filemoon.to/d/r5aq45a0frug/Los_misterios_del_Hotel_Finse_1x04",
+"info": "[Crimen 2025]",
+"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "",
+"embed": "",
+"isHost": "true",
+"online": "true",
+"import": false
+}
+
+]
+}
