@@ -36,6 +36,12 @@
         "import": false
       },
       {
+       "name": "Dexter resurrección",
+       "image": "https://hdfullcdn.cc/tthumb/172x265/show_fd3c1abdc554d4586c7e3dfe6e7b7f50.jpg",
+       "url": "https://raw.githubusercontent.com/Blacklist1976/Blacklist/refs/heads/main/Dexter%20resurrecci%C3%B3n.w3u",
+       "import": false
+      },
+      {
         "name": "Billy el niño",
         "image": "https://media.themoviedb.org/t/p/w130_and_h195_face/rjhCeBM6pwcXJiLDHi40LTJGltq.jpg",
         "url": "https://raw.githubusercontent.com/Blacklist1976/Blacklist/refs/heads/main/Billy%20el%20ni%C3%B1o.w3u",
@@ -4010,6 +4016,7 @@
       }
     ]
   }
+
 
 
 
