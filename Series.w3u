@@ -24,6 +24,12 @@
         "import": false
       },
       {
+        "name": "El precio de una confesión",
+        "image": "https://www.themoviedb.org/t/p/w600_and_h900_face/gPb8k63HrpvTxHc9yKWZEBR4Kml.jpg",
+        "url": "https://raw.githubusercontent.com/Blacklist1976/Blacklist/refs/heads/main/El%20precio%20de%20una%20confesi%C3%B3n.w3u",
+        "import": false
+      },
+      {
         "name": "Billy el niño",
         "image": "https://media.themoviedb.org/t/p/w130_and_h195_face/rjhCeBM6pwcXJiLDHi40LTJGltq.jpg",
         "url": "https://raw.githubusercontent.com/Blacklist1976/Blacklist/refs/heads/main/Billy%20el%20ni%C3%B1o.w3u",
@@ -3998,6 +4004,7 @@
       }
     ]
   }
+
 
 
 
