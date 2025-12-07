@@ -1,7 +1,7 @@
 
  {
 "name": "RESPIRA",
-"url": "https://raw.githubusercontent.com/Blacklist1976/Blacklist/refs/heads/main/Respira.w3u",
+"url": "",
 "image": "https://pics.filmaffinity.com/respira-962311306-large.jpg",
 "groups": 
 [
@@ -9,15 +9,15 @@
 {
 "name": "TEMPORADA 01",
 "image": "https://pics.filmaffinity.com/respira-962311306-large.jpg",
-"url": "https://raw.githubusercontent.com/Blacklist1976/Blacklist/refs/heads/main/Respira%20T1.w3u",
+"url": "https://raw.githubusercontent.com/Blacklist1976/Blacklist/refs/heads/main/Respira%20T1.w3u"
 },
 {
 "name": "TEMPORADA 02",
 "image": "https://pics.filmaffinity.com/respira-962311306-large.jpg",
-"url": "https://raw.githubusercontent.com/Blacklist1976/Blacklist/refs/heads/main/Respira%20T2.w3u",
+"url": "https://raw.githubusercontent.com/Blacklist1976/Blacklist/refs/heads/main/Respira%20T2.w3u"
 }
 
 ]
 
-
 }
+
