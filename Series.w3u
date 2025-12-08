@@ -66,6 +66,12 @@
        "import": false
       },
       {
+       "name": "Veronika",
+       "image": "https://www.themoviedb.org/t/p/w600_and_h900_face/4DKJwKWaq8XzyXp6KPfwEBs8JTl.jpg",
+       "url": "https://raw.githubusercontent.com/Blacklist1976/Blacklist/refs/heads/main/Veronika.w3u",
+       "import": false
+      },
+      {
        "name": "Robin Hood",
        "image": "https://www.themoviedb.org/t/p/w600_and_h900_face/3teWChNzKJdbfen46IdeKTygdZa.jpg",
        "url": "https://raw.githubusercontent.com/Blacklist1976/Blacklist/refs/heads/main/Robin%20Hood.w3u",
@@ -4046,6 +4052,7 @@
       }
     ]
   }
+
 
 
 
