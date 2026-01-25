@@ -1,7 +1,7 @@
 {
 "name": "El caballero de los 7 reinos",
 "image": "https://www.themoviedb.org/t/p/w600_and_h900_face/pKWuCnx1DAjLFamTdYVRfK0cck6.jpg",
-"url": "",
+"url": "https://raw.githubusercontent.com/Blacklist1976/Blacklist/refs/heads/main/El%20caballero%20de%20los%207%20reinos.w3u",
 "stations":[
 
 {
@@ -78,4 +78,5 @@
 }
 
 ]
+
 }
