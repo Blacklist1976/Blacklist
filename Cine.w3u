@@ -14,49 +14,9 @@
 "online": "true",
 "import": false},
 
-{"name" : "En sueños",
-"image" : "https://pics.filmaffinity.com/in_your_dreams-867799528-mmed.jpg",
-"url" : "https://bigwarp.art/tlapho7a7wuz",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false},
-
 {"name" : "Frankenstein",
 "image" : "https://www.elseptimoarte.net/carteles/341/frankenstein_106436.jpg",
 "url" : "https://ok.ru/videoembed/10502554192499", 
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false},
-
-{"name" : "Padre no hay más que uno 5",
-"image" : "https://www.elseptimoarte.net/carteles/341/padre_no_hay_mas_que_uno_5_105099.jpg",
-"url" : "https://bigwarp.art/hr9f5k10mgmt",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false},
-
-{"name" : "Agárralo como puedas",
-"image" : "https://www.elseptimoarte.net/carteles/341/agarralo_como_puedas_105792.jpg",
-"url" : "https://bigwarp.art/0p1apebk2f4i",
-"userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-"referer": "",
-"embed": "",
-"isHost": "true",
-"online": "true",
-"import": false},
-
-{"name" : "Culpa nuestra",
-"image" : "https://pics.filmaffinity.com/culpa_nuestra-335885574-mmed.jpg",
-"url" : "https://bigwarp.art/k7ibzmoefuz2",
 "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer": "",
 "embed": "",
@@ -77,7 +37,7 @@
 
 {"name": "Expediente Warren: The Conjuring",
 "image": "https://www.elseptimoarte.net/carteles/341/expediente_warren_the_conjuring_21835.jpg",
-"url": "https://filemoon.to/d/kkhg8ahdp368/Expediente_Warren_The_Conjuring",
+"url": "https://vidmoly.me/w/nlyizlgapi5o",
 "info": "[2013][Terror]",
 "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer": "",
@@ -88,7 +48,7 @@
 
 {"name" : "Expediente Warren: El último rito",
 "image" : "https://www.elseptimoarte.net/carteles/341/expediente_warren_el_ultimo_rito_105810.jpg",
-"url" : "https://bigwarp.art/zbibgqnfzsop",
+"url" : "https://zpjid.com/d/82plpenwjuwb",
 "info": "[2025][Terror]",
 "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer": "",
@@ -99,7 +59,7 @@
 
 {"name": "Insidious",
 "image": "https://www.elseptimoarte.net/carteles/341/insidious_9395.jpg",
-"url": "https://filemoon.to/d/nqgvmfiy66bb/Insidious.mp4",
+"url": "https://powcloub.org/z7tka7k3ln24",
 "info": "[2011][Terror]",
 "userAgent":"PlusMediaPlayer/0.0.9 Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
 "referer": "",
@@ -3499,6 +3459,7 @@
 "isHost": "true",
 "online": "true",
 "import": false}]}
+
 
 
 
