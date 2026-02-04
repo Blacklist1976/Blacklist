@@ -1,12 +1,11 @@
 {
-"name": "Los Bridgerton",
+"name": "Bridgerton",
 "author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
-"url": "https://raw.githubusercontent.com/Blacklist1976/Blacklist/refs/heads/main/Los%20Bridgerton.w3u",
+"url": "https://af1c1onados.vercel.app/Series.Bridgerton.w3u",
 "image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
 "telegram": "Lista_AF1CIONADOS",
-"info": "bY Virgin Mary",
-"groups":
-    [
+"info": "",
+"groups":[
 
         {
         "name": "Temporada 01",
@@ -89,7 +88,6 @@
                 }
 			]
         },
-
 		{
         "name": "Temporada 2",
         "info":"",
@@ -97,7 +95,6 @@
         "imageScale": "",
         "stations":
             [
-
                 {
                 "name": "Libertino con todas las letras",
                 "info":"Capitulo 01",
@@ -169,10 +166,7 @@
                 "userAgent":"PlusMediaPlayer/0.0.9",
 				"isHost": "true",
                 "online":"true"
-                }
-]
-},
-
+                },
 {
         "name": "Temporada 3",
         "info":"",
@@ -254,7 +248,6 @@
 }
 			]
         },
-
         {
         "name": "Temporada 4",
         "info":"",
