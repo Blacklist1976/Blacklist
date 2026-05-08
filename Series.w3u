@@ -12,10 +12,10 @@
         "import": false
       },
       {
-       "name": "Los testamentos",
-       "image": "https://pics.filmaffinity.com/the_testaments-301162605-msmall.jpg",
-       "url": "https://raw.githubusercontent.com/Blacklist1976/Los-testamentos/refs/heads/main/serie%20LOS%20TESTAMENTOS.w3u",
-       "import": false
+        "name": "Los testamentos",
+        "image": "https://pics.filmaffinity.com/the_testaments-301162605-msmall.jpg",
+        "url": "https://raw.githubusercontent.com/Blacklist1976/Blacklist/refs/heads/main/Los%20testamentos",
+        "import": false
       },
       {
         "name": "Anatomía de un instante",
