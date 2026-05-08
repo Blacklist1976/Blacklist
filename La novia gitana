@@ -1,0 +1,98 @@
+
+{
+"name": "La novia gitana",
+"url": "",
+"image": "https://pics.filmaffinity.com/la_novia_gitana-501277819-large.jpg",
+"stations":
+	[
+	{
+	"name": "Episodio 1",
+	"image": "https://pics.filmaffinity.com/la_novia_gitana-501277819-large.jpg",
+	"url": "https://vidmoly.biz/embed-o74vvogi62m6.html",
+	"info": "",
+        "embed": "",
+        "isHost": "true",
+        "online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+        "import": false
+	},
+	{
+	"name": "Episodio 2",
+	"image": "https://pics.filmaffinity.com/la_novia_gitana-501277819-large.jpg",
+	"url": "https://vidmoly.biz/embed-vr52uynfa2ob.html",
+	"info": "",
+        "embed": "",
+        "isHost": "true",
+        "online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+        "import": false
+	},
+	{
+	"name": "Episodio 3",
+	"image": "https://pics.filmaffinity.com/la_novia_gitana-501277819-large.jpg",
+	"url": "https://vidmoly.biz/embed-3ltq6b8gvwat.html",
+	"info": "",
+        "embed": "",
+        "isHost": "true",
+        "online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+        "import": false
+	},
+	{
+	"name": "Episodio 4",
+	"image": "https://pics.filmaffinity.com/la_novia_gitana-501277819-large.jpg",
+	"url": "https://vidmoly.biz/embed-rjinjjed4dum.html",
+	"info": "",
+        "embed": "",
+        "isHost": "true",
+        "online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+        "import": false
+	},
+	{
+	"name": "Episodio 5",
+	"image": "https://pics.filmaffinity.com/la_novia_gitana-501277819-large.jpg",
+	"url": "https://vidmoly.biz/embed-z2udn0cfob5n.html",
+	"info": "",
+        "embed": "",
+        "isHost": "true",
+        "online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+        "import": false
+	},
+	{
+	"name": "Episodio 6 ",
+	"image": "https://pics.filmaffinity.com/la_novia_gitana-501277819-large.jpg",
+	"url": "https://vidmoly.biz/embed-nmrjwbpj083f.html",
+	"info": "",
+        "embed": "",
+        "isHost": "true",
+        "online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+        "import": false
+	},
+	{
+	"name": "Episodio 7 ",
+	"image": "https://pics.filmaffinity.com/la_novia_gitana-501277819-large.jpg",
+	"url": "https://vidmoly.biz/embed-wgbp2zjnxrma.html",
+	"info": "",
+        "embed": "",
+        "isHost": "true",
+        "online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+        "import": false
+	},
+	{
+	"name": "Episodio 8 ",
+	"image": "https://pics.filmaffinity.com/la_novia_gitana-501277819-large.jpg",
+	"url": "https://vidmoly.biz/embed-cyq1k5cwoq80.html",
+	"info": "",
+        "embed": "",
+        "isHost": "true",
+        "online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+        "import": false
+	}
+	]
+
+}
